@@ -30,7 +30,7 @@
   
    Imágenes, tipos de rutas, enlaces fuera y dentro de la página y enlaces en imágenes.
    
-   <b><Práctica: mostrar 3 imágenes centradas, 2 arriba y 1 abajo, con enlaces a otras webs.</b>
+   <b>Práctica: mostrar 3 imágenes centradas, 2 arriba y 1 abajo, con enlaces a otras webs.</b>
    
 ![Practica 1](https://user-images.githubusercontent.com/51362780/194929380-c35362db-f2b1-4c7d-b2e1-ef11bd0cca5f.png)
   Código:
@@ -39,7 +39,7 @@
 ![Practica 1 result](https://user-images.githubusercontent.com/51362780/194929410-1ce96c21-39a4-489b-99bd-39798da4b4f5.png)
 
   Listas ordenadas, no ordenadas y de definición.
-  <b>Práctica: hacer una ordenada con números romanos, unha no numerada con style disc y otra mezclando ambos tipos de listas.
+  <b>Práctica: hacer una ordenada con números romanos, unha no numerada con style disc y otra mezclando ambos tipos de listas.</b>
   
 ![Curso1_5 enunciado](https://user-images.githubusercontent.com/51362780/194951764-87a16e52-f010-4ba6-b3d8-d2677140bfcb.png)
   Código:
