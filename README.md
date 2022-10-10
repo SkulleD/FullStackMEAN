@@ -16,5 +16,7 @@
 - Curso HTML5 y CSS3 (Punto 2/5 - HTML5 y CSS3)
 
   Historia de las diferentes versiones de HTML (HTML 1.0, 2.0, 3.2, 4.01, XHTML 1.0, HTML5).
+  
   Etiquetas simples como <"h1"> o <"p">. Atributos
+  
   Estructura de una página HTML (<"head">, <"head">, <"meta">, <"body">...)
