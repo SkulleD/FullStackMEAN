@@ -40,7 +40,7 @@
 
   Listas ordenadas, no ordenadas y de definición.
   
-  <b>Práctica: hacer una ordenada con números romanos, unha no numerada con style disc y otra mezclando ambos tipos de listas.</b>
+  <b>Práctica: hacer una lista ordenada con números romanos, una no numerada con style disc y otra mezclando ambos tipos de listas.</b>
   
 ![Curso1_5 enunciado](https://user-images.githubusercontent.com/51362780/194951764-87a16e52-f010-4ba6-b3d8-d2677140bfcb.png)
   Código:
