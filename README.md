@@ -27,3 +27,5 @@
   Etiquetas de formato (Negrita <"b">, Enfasis <"em">, Superíndice <"sup">, Cita corta <"q">, Cita <"cite">...).
   
   Otros elementos (Salto de línea <"/br">, Separación de tema <"/hr">, Párrafo <"p">). 
+  
+  Imágenes, tipos de rutas, enlaces fuera y dentro de la página y enlaces en imágenes.
