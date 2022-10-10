@@ -35,9 +35,11 @@
 ![Practica 1](https://user-images.githubusercontent.com/51362780/194929380-c35362db-f2b1-4c7d-b2e1-ef11bd0cca5f.png)
 
   Código:
+  
 ![Practica 1 codigo](https://user-images.githubusercontent.com/51362780/194929398-ffc2b498-5505-48a4-84d4-ee2ba19d00f6.png)
 
   Resultado:
+  
 ![Practica 1 result](https://user-images.githubusercontent.com/51362780/194929410-1ce96c21-39a4-489b-99bd-39798da4b4f5.png)
 
   Listas ordenadas, no ordenadas y de definición.
