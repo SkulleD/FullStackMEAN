@@ -33,6 +33,7 @@
    <b>Práctica: mostrar 3 imágenes centradas, 2 arriba y 1 abajo, con enlaces a otras webs.</b>
    
 ![Practica 1](https://user-images.githubusercontent.com/51362780/194929380-c35362db-f2b1-4c7d-b2e1-ef11bd0cca5f.png)
+
   Código:
 ![Practica 1 codigo](https://user-images.githubusercontent.com/51362780/194929398-ffc2b498-5505-48a4-84d4-ee2ba19d00f6.png)
 
@@ -46,7 +47,9 @@
 ![Curso1_5 enunciado](https://user-images.githubusercontent.com/51362780/194951764-87a16e52-f010-4ba6-b3d8-d2677140bfcb.png)
 
   Código:
+  
 ![Curso1_5 codigo](https://user-images.githubusercontent.com/51362780/194951814-6b26fe7a-9430-41b9-b128-1f447fcb8ab2.png)
 
   Resultado:
+  
 ![Curso1_5 resultado](https://user-images.githubusercontent.com/51362780/194951863-e0f00df9-d9e9-4d4c-b7ef-53ce037aa0fa.png)
