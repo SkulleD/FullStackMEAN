@@ -19,4 +19,4 @@
   
   Etiquetas simples como <"h1"> o <"p">. Atributos
   
-  Estructura de una página HTML (<"!DOCTYPE html"><"html">, <"head">, <"meta">, <"body">...)
+  Estructura de una página HTML (<"!DOCTYPE html">, <"html">, <"head">, <"meta">, <"body">...)
