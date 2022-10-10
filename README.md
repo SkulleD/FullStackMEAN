@@ -20,3 +20,10 @@
   Etiquetas simples como <"h1"> o <"p">. Atributos.
   
   Estructura de una página HTML (<"!DOCTYPE html">, <"html">, <"head">, <"meta">, <"body">...).
+
+<b>10/10/2022</b>
+ - Curso HTML5 y CSS3 (Punto 3/5 - Añadiendo contenido. Etiquetas básicas)
+  
+  Etiquetas de formato (Negrita <"b">, Enfasis <"em">, Superíndice <"sup">, Cita corta <"q">, Cita <"cite">...).
+  
+  Otros elementos (Salto de línea <"/br">, Separación de tema <"/hr">, Párrafo <"p">). 
