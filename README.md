@@ -78,4 +78,7 @@
   
   ![Curso1_8 resultado](https://user-images.githubusercontent.com/51362780/195142755-bb821d4a-0927-44fe-8cf3-42a80c0f8b10.png)
 
+  - Curso HTML5 y CSS3 (Punto 4/5 - Formularios)
   
+    Métodos POST (no se ven los datos enviados en la url) y GET (sí que se ven).
+    
