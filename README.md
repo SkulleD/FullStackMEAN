@@ -22,6 +22,7 @@
   Estructura de una página HTML (<"!DOCTYPE html">, <"html">, <"head">, <"meta">, <"body">...).
 
 <b>10/10/2022</b>
+
  - Curso HTML5 y CSS3 (Punto 3/5 - Añadiendo contenido. Etiquetas básicas)
   
    Etiquetas de formato (Negrita <"b">, Enfasis <"em">, Superíndice <"sup">, Cita corta <"q">, Cita <"cite">...).
@@ -55,3 +56,13 @@
   Resultado:
   
 ![Curso1_5 resultado](https://user-images.githubusercontent.com/51362780/194951863-e0f00df9-d9e9-4d4c-b7ef-53ce037aa0fa.png)
+
+
+<b>11/10/2022</b>
+
+  Tablas simples (table, tr, th/td) y complejas (colgroup, caption, tbody...). Alargar celdas con rowspan y colspan.
+  
+  Estilos de CSS para cambiar los bordes de tablas (bordes colapsados, sin colapsar...).
+  
+  <b>Práctica: </b>
+  
