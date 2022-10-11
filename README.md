@@ -81,4 +81,23 @@
   - Curso HTML5 y CSS3 (Punto 4/5 - Formularios)
   
     Métodos POST (no se ven los datos enviados en la url) y GET (sí que se ven).
+    Input, select, textarea, button (normal, reset, submit), fieldset, legend... Atributos como readonly, required, placeholder, disabled...
+    Tipos de input (reset, submit, button, radio, checkbox, list, datalist, color, range, file...).
     
+    <b>Práctica: Formulario estándar.</b>
+    
+    ![Curso1_11 enunciado](https://user-images.githubusercontent.com/51362780/195215841-f9538f1c-6e65-4398-b933-2117a14b1d4f.png)
+    
+    Código:
+    
+    ![Curso1_11 codigo1](https://user-images.githubusercontent.com/51362780/195215862-f3f6d864-0ac7-423e-b2ac-bf378207a540.png)
+
+    ![Curso1_11 codigo2](https://user-images.githubusercontent.com/51362780/195215871-7babe3b5-1deb-4a54-96e4-585d8684a5bd.png)
+
+    ![Curso1_11 codigo3](https://user-images.githubusercontent.com/51362780/195215879-8c9b6f25-8143-4921-910c-863d332289a9.png)
+    
+    Resultado:
+    
+![Curso1_11 resultado](https://user-images.githubusercontent.com/51362780/195215891-528fc808-3d7f-4fad-b878-9e82275e1bfe.png)
+
+
