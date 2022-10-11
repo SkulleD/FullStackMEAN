@@ -64,5 +64,18 @@
   
   Estilos de CSS para cambiar los bordes de tablas (bordes colapsados, sin colapsar...).
   
-  <b>Práctica: </b>
+  <b>Práctica: Tabla con imágenes y listas dentro. </b>
+  
+  ![Curso1_8 enunciado](https://user-images.githubusercontent.com/51362780/195130548-4d5eaa98-835c-484d-af3c-da861bff2d76.png)
+
+  Código:
+  
+  ![Curso1_8  codigo1](https://user-images.githubusercontent.com/51362780/195142708-6b33a517-f9b2-4e88-b948-839010577645.png)
+  
+![Curso1_8  codigo2](https://user-images.githubusercontent.com/51362780/195142721-6dde271e-8893-4e5e-a654-0b05c0ffa4e7.png)
+
+  Resultado:
+  
+  ![Curso1_8 resultado](https://user-images.githubusercontent.com/51362780/195142755-bb821d4a-0927-44fe-8cf3-42a80c0f8b10.png)
+
   
