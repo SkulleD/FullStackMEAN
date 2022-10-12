@@ -32,12 +32,6 @@
    Imágenes, tipos de rutas, enlaces fuera y dentro de la página y enlaces en imágenes.
    
    <b>Práctica: mostrar 3 imágenes centradas, 2 arriba y 1 abajo, con enlaces a otras webs.</b>
-   
-![Practica 1](https://user-images.githubusercontent.com/51362780/194929380-c35362db-f2b1-4c7d-b2e1-ef11bd0cca5f.png)
-
-  Código:
-  
-![Practica 1 codigo](https://user-images.githubusercontent.com/51362780/194929398-ffc2b498-5505-48a4-84d4-ee2ba19d00f6.png)
 
   Resultado:
   
@@ -46,12 +40,6 @@
   Listas ordenadas, no ordenadas y de definición.
   
   <b>Práctica: hacer una lista ordenada con números romanos, una no numerada con style disc y otra mezclando ambos tipos de listas.</b>
-  
-![Curso1_5 enunciado](https://user-images.githubusercontent.com/51362780/194951764-87a16e52-f010-4ba6-b3d8-d2677140bfcb.png)
-
-  Código:
-  
-![Curso1_5 codigo](https://user-images.githubusercontent.com/51362780/194951814-6b26fe7a-9430-41b9-b128-1f447fcb8ab2.png)
 
   Resultado:
   
@@ -66,14 +54,6 @@
   
   <b>Práctica: Tabla con imágenes y listas dentro. </b>
   
-  ![Curso1_8 enunciado](https://user-images.githubusercontent.com/51362780/195130548-4d5eaa98-835c-484d-af3c-da861bff2d76.png)
-
-  Código:
-  
-  ![Curso1_8  codigo1](https://user-images.githubusercontent.com/51362780/195142708-6b33a517-f9b2-4e88-b948-839010577645.png)
-  
-![Curso1_8  codigo2](https://user-images.githubusercontent.com/51362780/195142721-6dde271e-8893-4e5e-a654-0b05c0ffa4e7.png)
-
   Resultado:
   
   ![Curso1_8 resultado](https://user-images.githubusercontent.com/51362780/195142755-bb821d4a-0927-44fe-8cf3-42a80c0f8b10.png)
@@ -86,18 +66,8 @@
     
     <b>Práctica: Formulario estándar.</b>
     
-    ![Curso1_11 enunciado](https://user-images.githubusercontent.com/51362780/195215841-f9538f1c-6e65-4398-b933-2117a14b1d4f.png)
-    
-    Código:
-    
-    ![Curso1_11 codigo1](https://user-images.githubusercontent.com/51362780/195215862-f3f6d864-0ac7-423e-b2ac-bf378207a540.png)
-
-    ![Curso1_11 codigo2](https://user-images.githubusercontent.com/51362780/195215871-7babe3b5-1deb-4a54-96e4-585d8684a5bd.png)
-
-    ![Curso1_11 codigo3](https://user-images.githubusercontent.com/51362780/195215879-8c9b6f25-8143-4921-910c-863d332289a9.png)
-    
     Resultado:
     
-![Curso1_11 resultado](https://user-images.githubusercontent.com/51362780/195215891-528fc808-3d7f-4fad-b878-9e82275e1bfe.png)
+    ![Curso1_11 resultado](https://user-images.githubusercontent.com/51362780/195215891-528fc808-3d7f-4fad-b878-9e82275e1bfe.png)
 
 
