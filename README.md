@@ -4,7 +4,7 @@
 
 *A partir de aquí comienzan los cursos de la carrera de Full Stack MEAN.*
 
-- Curso HTML5 y CSS3 (Punto 1/5 - Introducción)
+- Curso HTML5 y CSS3 (Punto 1/6 - Introducción)
 
   HTML: Hypertext Markup Language. Las páginas web son ficheros con extensión HTML.
   
@@ -13,7 +13,7 @@
   
 <h2>09/10/2022</h2>
 
-- Curso HTML5 y CSS3 (Punto 2/5 - HTML5 y CSS3)
+- Curso HTML5 y CSS3 (Punto 2/6 - HTML5 y CSS3)
 
   Historia de las diferentes versiones de HTML (HTML 1.0, 2.0, 3.2, 4.01, XHTML 1.0, HTML5).
   
@@ -23,7 +23,7 @@
 
 <h2>10/10/2022</h2>
 
- - Curso HTML5 y CSS3 (Punto 3/5 - Añadiendo contenido. Etiquetas básicas)
+ - Curso HTML5 y CSS3 (Punto 3/6 - Añadiendo contenido. Etiquetas básicas)
   
    Etiquetas de formato (Negrita <"b">, Enfasis <"em">, Superíndice <"sup">, Cita corta <"q">, Cita <"cite">...).
   
@@ -58,7 +58,7 @@
   
   ![Curso1_8 resultado](https://user-images.githubusercontent.com/51362780/195142755-bb821d4a-0927-44fe-8cf3-42a80c0f8b10.png)
 
-  - Curso HTML5 y CSS3 (Punto 4/5 - Formularios)
+  - Curso HTML5 y CSS3 (Punto 4/6 - Formularios)
   
     Métodos POST (no se ven los datos enviados en la url) y GET (sí que se ven).
     Input, select, textarea, button (normal, reset, submit), fieldset, legend... Atributos como readonly, required, placeholder, disabled...
@@ -71,3 +71,6 @@
   ![Curso1_11 resultado](https://user-images.githubusercontent.com/51362780/195215891-528fc808-3d7f-4fad-b878-9e82275e1bfe.png)
 
 <h2>12/10/2022</h2>
+
+  - Curso HTML5 y CSS3 (Punto 5/6 - Más etiquetas accesibilidad)
+    Etiquetas de audio y video (atributos: width, height, poster), source (atributos: src, type) y track (atributos: src,     kind, srclang,     label, type). Atributos audio y video: controls (muestra controles de reproducción), autoplay,         loop, muted...
