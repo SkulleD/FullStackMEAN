@@ -96,3 +96,27 @@
   Se recomienda usar "<link href="css/estilos.css" rel="stylesheet" type="text/css"/>" para añadir la hoja de estilos a nuestra página web, ya que es el método que       menos problemas nos va a dar.
   
   Modelo de cajas. Todos los elementos de una web están compuestos por cajas.
+
+  Selectores y Ficheros.
+  Son reglas que nos permiten seleccionar los elementos de nuestra web para modificar sus estilos visuales o propiedades.
+  Algunos selectores: # (selector universal), #id (elemento con atributo id), .class (elemento con valor en atributo clase), etiqueta (selecciona esa etiqueta)...
+  También se puede hacer cosas como "selector1, selector2" para que tengan ambos sus propiedades, o "selector1>selector2", "selector1+selector2".
+  
+  En Cascada.
+  Significa que los estilos de los elementos padre se van propagando hacia abajo y que  si hay más de una regla que se pueda aplicar a un elemento y hay conflicto
+  entonces se aplicará lo más específico.
+  
+  Propiedades interesantes.
+  Los colores pueden expresarse mediante el nombre en inglés, de forma hexadecimal o RGB.
+  Los fondos pueden modificarse usando la propiedad "background" y añadiendo cosas como -color, -image, -repeat, -origin...
+  Para tamaño de elementos se usan width y height. Se pueden expresar en píxeles (px), procentaje (%), o en relación al tamaño de letra
+  del navegador (em) o de la letra que tiene la etiqueta HTML (rem).
+  
+  Márgenes, bordes y padding:
+  margin: 50px, margin: 20px 50px 20px 50px, margin-left, margin-top...
+  border: 1px solid black, border-style: solid, border-color: black, border-bottom, border-right...
+  
+  Texto:
+  Cambiar la fuente de letra (font-family), cosas como negrita o cursiva (font-weight), justificar el texto (text-align), tabular (text-indent),
+  cosas como subrayar o tachar texto (text-decoration),
+  
