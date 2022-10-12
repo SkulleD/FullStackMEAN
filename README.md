@@ -120,7 +120,7 @@
   Cambiar la fuente de letra (font-family), cosas como negrita o cursiva (font-weight), justificar el texto (text-align), tabular (text-indent),
   cosas como subrayar o tachar texto (text-decoration),
   
-  <b>Práctica: Usar estilos para modificar visualmente la tabla del tercer ejercicio. </b>
+  <b>Práctica: Usar selectores para modificar visualmente la tabla del tercer ejercicio. </b>
   
   Resultado:
   
@@ -140,3 +140,11 @@
   Palabras clave que se añaden a los selectores y que indican una parte de un elemento al que nos permiten añadir contenido.
   Ejemplos son first-line (selecciona primera línea), first-letter (primera letra), after (elementos que están después), before (elementos que están antes),
   selected (elementos que están seleccionados)...
+  
+  <b>Práctica: Tabla con con estilos de pseudoselectores y pseudoelementos.</b>
+  
+  Resultado:
+  
+  ![Curso1_23 resultado](https://user-images.githubusercontent.com/51362780/195378344-82740143-090e-4767-a773-507180a4e2f4.png)
+
+  
