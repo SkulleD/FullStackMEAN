@@ -120,3 +120,11 @@
   Cambiar la fuente de letra (font-family), cosas como negrita o cursiva (font-weight), justificar el texto (text-align), tabular (text-indent),
   cosas como subrayar o tachar texto (text-decoration),
   
+  <b>Práctica: Usar estilos para modificar visualmente la tabla del tercer ejercicio. </b>
+  
+  Resultado:
+  
+  ![Curso1_21 resultado](https://user-images.githubusercontent.com/51362780/195370409-f02fe630-c07b-43c0-9272-6de4a909a92b.png)
+
+
+  
