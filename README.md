@@ -147,4 +147,20 @@
   
   ![Curso1_23 resultado](https://user-images.githubusercontent.com/51362780/195378344-82740143-090e-4767-a773-507180a4e2f4.png)
 
+  Estilos por defecto:
+  Los aplican los propios navegadores con sus hojas de estilo para hacer las páginas más legibles. Para tener consistencia en nuestras páginas habría que
+  resetar esas hojas de estilo usando hojas de reseteo para poder usar las nuestras sin problemas. Hay que hacerlo con cuidado para no borrar estilos necesarios.
+  
+  Prefijos específicos para navegadores:
+  Son propiedades experimentales para indicar que a un navegador se le ha dado soporte antes que a otros.
+  Valores comunes son -webkit- (Chrome, Safari, Opera, navegadores de iOS...), -moz- (Firefox), -o- (versiones antiguas de Opera)
+  o -ms- (Internet Explorer, Microsoft Edge).
+  
+  Optimización de CSS:
+  ¿Qué es? Se trata de borrar reglas innecesarias, ordenar las propiedades alfabéticamente, dejarlo en la cabecera, partirlo en varios si es muy grande,
+  organizar las reglas según la relación que tengan...
+  
+  Herramientas relacionadas con CSS:
+  Preprocesadores CSS para generar CSS haciendo que la estructura sea más legible y fácil de mantener y también añaden cosas como variables, selectores
+  anidados, bucles...
   
