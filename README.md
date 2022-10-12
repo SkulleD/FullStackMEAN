@@ -1,4 +1,4 @@
-<b>08/10/2022</b>
+<h2>08/10/2022</h2>
 
 - Visto el Curso de Onboarding BecasOW.
 
@@ -11,7 +11,7 @@
   CSS: Cascading Style Sheets. Se asocia a la página web HTML para darle un estilo visual.
   
   
-<b>09/10/2022</b>
+<h2>09/10/2022</h2>
 
 - Curso HTML5 y CSS3 (Punto 2/5 - HTML5 y CSS3)
 
@@ -21,7 +21,7 @@
   
   Estructura de una página HTML (<"!DOCTYPE html">, <"html">, <"head">, <"meta">, <"body">...).
 
-<b>10/10/2022</b>
+<h2>10/10/2022</h2>
 
  - Curso HTML5 y CSS3 (Punto 3/5 - Añadiendo contenido. Etiquetas básicas)
   
@@ -46,7 +46,7 @@
 ![Curso1_5 resultado](https://user-images.githubusercontent.com/51362780/194951863-e0f00df9-d9e9-4d4c-b7ef-53ce037aa0fa.png)
 
 
-<b>11/10/2022</b>
+<h2>11/10/2022</h2>
 
   Tablas simples (table, tr, th/td) y complejas (colgroup, caption, tbody...). Alargar celdas con rowspan y colspan.
   
@@ -70,4 +70,4 @@
     
   ![Curso1_11 resultado](https://user-images.githubusercontent.com/51362780/195215891-528fc808-3d7f-4fad-b878-9e82275e1bfe.png)
 
-
+<h2>12/10/2022</h2>
