@@ -15,7 +15,7 @@
 
 - <h4>Curso HTML5 y CSS3 (Punto 2/6 - HTML5 y CSS3)</h4>
 
-  Historia de las diferentes versiones de HTML (HTML 1.0, 2.0, 3.2, 4.01, XHTML 1.0, HTML5).
+  Historia de las diferentes versiones de HTML desde la primera en 1991 hasta ahora (HTML 1.0, 2.0, 3.2, 4.01, XHTML 1.0, HTML5).
   
   Etiquetas simples como <"h1"> o <"p">. Atributos.
   
@@ -85,6 +85,8 @@
     Usar atributos ARIA (Accesible Rich Internet Application) como role, aria-owns, aria-hidden, aria-checked, aria-label, aria-disabled...
     
     
-  - <h4>Curso HTML5 y CSS3 (Punto 6/6 - Más etiquetas accesibilidad)</h4>
+  - <h4>Curso HTML5 y CSS3 (Punto 6/6 - CSS)</h4>
 
 
+  Historia de CSS.
+  Primera versión, CSS 1.0, en 1996.
