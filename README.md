@@ -127,4 +127,16 @@
   ![Curso1_21 resultado](https://user-images.githubusercontent.com/51362780/195370409-f02fe630-c07b-43c0-9272-6de4a909a92b.png)
 
 
+  Pseudoselectores:
+  Palabras clave que se añaden a selectores para indicar el estado de los elementos.
   
+  Pseudoselectores de estado: link (indica si hemos visitado ese enlace o no), visited (indica si ha sido visitado), enabled (permite seleccionar elementos HTML
+  habilitados), disabled (lo contrario a lo anterior), checked (elementos de formulario que hayamos seleccionado), required (elementos de fomulario requeridos)...
+  
+  Pseudoselectores de estado: first (primera ocurrencia del selector), last (lo contrario a lo anterior), first-of-type (primera ocurrencia de ese tipo del selector),
+  nth-last-child (enésimo último hijo)...
+  
+  Pseudoelementos:
+  Palabras clave que se añaden a los selectores y que indican una parte de un elemento al que nos permiten añadir contenido.
+  Ejemplos son first-line (selecciona primera línea), first-letter (primera letra), after (elementos que están después), before (elementos que están antes),
+  selected (elementos que están seleccionados)...
