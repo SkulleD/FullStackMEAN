@@ -201,3 +201,5 @@
   La parte de frontend es la que se ve al visitar una página (HTML, CSS; JavaScript) y backend todo lo que hay por detrás y que no vemos (PHP, bases de datos,
   servidores...).
  
+  JavaScript fue creado por Brendan Eich y originalmente llamado LiveScript. Al sacarlo al mercado decidieron llamarlo JavaScript porque vieron que Java
+  estaba ganando popularidad. Ecma International y W3C son las organizaciones que se encargan de ir actualizando las especificaciones (ECMAScript) cada año.
