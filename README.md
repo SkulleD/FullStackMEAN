@@ -203,3 +203,10 @@
  
   JavaScript fue creado por Brendan Eich y originalmente llamado LiveScript. Al sacarlo al mercado decidieron llamarlo JavaScript porque vieron que Java
   estaba ganando popularidad. Ecma International y W3C son las organizaciones que se encargan de ir actualizando las especificaciones (ECMAScript) cada año.
+  
+  Tipos de variables en JavaScript: var (se puede trabajar con ella después de haberlas declarado pero sin todavía darles valor, let (hace falta darles valor
+  para poder trabajar con ellas) y const (tienen valor constante que nunca va a cambiar).
+  
+  Las variables var y let se deben escribir en camelCase y las const en MAYÚSCULAS.
+  
+  
