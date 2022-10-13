@@ -170,3 +170,6 @@
   
   ![Curso 1 certificado](https://user-images.githubusercontent.com/51362780/195642729-6aaeafe2-ac07-4975-8226-adee2036d0d4.png)
 
+  - <h4>Curso JavaScript para Principiantes (Punto 1/4 - Introducción)</h4>
+  
+  
