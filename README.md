@@ -164,3 +164,9 @@
   Preprocesadores CSS para generar CSS haciendo que la estructura sea más legible y fácil de mantener y también añaden cosas como variables, selectores
   anidados, bucles...
   
+  <h2>13/10/2022</h2>
+  
+  Hecho el examen final del curso de HTML5 y CSS3. Certificado conseguido.
+  
+  ![Curso 1 certificado](https://user-images.githubusercontent.com/51362780/195642729-6aaeafe2-ac07-4975-8226-adee2036d0d4.png)
+
