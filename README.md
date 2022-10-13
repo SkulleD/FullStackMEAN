@@ -207,6 +207,6 @@
   Tipos de variables en JavaScript: var (se puede trabajar con ella después de haberlas declarado pero sin todavía darles valor, let (hace falta darles valor
   para poder trabajar con ellas) y const (tienen valor constante que nunca va a cambiar).
   
-  Las variables var y let se deben escribir en camelCase y las const en MAYÚSCULAS.
+  Los nombres de las variables var y let se deben escribir en camelCase y las const en MAYÚSCULAS.
   
   
