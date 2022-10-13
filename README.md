@@ -172,4 +172,32 @@
 
   - <h4>Curso JavaScript para Principiantes (Punto 1/4 - Introducción)</h4>
   
+  ¿Qué es un lenguaje de programación web?
   
+  La forma en la que escribes tu código para comunicarte con la web.
+  
+  ¿Qué es un framework?
+  
+  Es como una caja de herramientas que te permite de forma relativamente sencilla construir un sistema de enrutado, gestionar tu base de datos hacia un punto
+  específico, servidores, gestión de estado...
+  
+  ¿Qué es una librería?
+  
+  Es una dependencia que introduces en tu proyecto para que te aporte alguna funcionalidad.
+  
+  ¿Para qué sirve jQuery?
+  
+  Te permite tener compatibilidad con el máximo posible de navegadores escribiendo muy pocas líneas de código. "Write less, do more".
+  
+  ¿Qué es Java?
+  
+  Es un lenguaje de desarrollo backend que necesita ser compilado, mientras que JavaScript, por lo general, no.
+  
+  ¿Qué es VanillaJS?
+  
+  Básicamente usar JavaScript puro, sin añadidos, como se se define desde la base.
+  
+  ¿Qué son frontend y backend?
+  La parte de frontend es la que se ve al visitar una página (HTML, CSS; JavaScript) y backend todo lo que hay por detrás y que no vemos (PHP, bases de datos,
+  servidores...).
+ 
