@@ -235,10 +235,14 @@
   ![Curso2_3 codigo](https://user-images.githubusercontent.com/51362780/195992670-0e0859ca-5902-4848-a7be-93590784ae2c.png)
   
   Undefined:
+  
   var a;
+  
   console.log(typeof a). No tiene valor porque todavía no ha sido definida.
   
-  Undefined:
+  Null:
+  
   var a = null;
+  
   console.log(type of a). Nos devolverá tipo objeto.
   
