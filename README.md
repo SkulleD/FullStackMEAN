@@ -209,4 +209,8 @@
   
   Los nombres de las variables var y let se deben escribir en camelCase y las const en MAYÚSCULAS.
   
+  <h2>15/10/2022</h2>
+  
+  Tipos de datos primitivos: numbers (números), strings (texto), booleans (true/false), undefined (no definido) y null (valor nulo).
+  
   
