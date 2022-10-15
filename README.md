@@ -214,4 +214,11 @@
   Tipos de datos primitivos: numbers (números), strings (texto), booleans (true/false), undefined (no definido) y null (valor nulo).
   Operaciones de comparación de datos: typeof, NaN (not a number), isNaN(), toString() para pasar un número a texto y .toFixed() para redondear decimales.
   
+  <b>Práctica: Números </b>
   
+  ![Curso2_1a codigo](https://user-images.githubusercontent.com/51362780/195987342-d5a9cd41-18c4-44a0-9b03-723c8b6778ff.png)
+  
+  ![Curso2_1b codigo](https://user-images.githubusercontent.com/51362780/195987348-8bdb1681-d881-4ae1-acee-787047b04dbd.png)
+
+  
+
