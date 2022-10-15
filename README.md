@@ -223,3 +223,13 @@
   Operaciones de strings:
   Concatenar texto, typeof, .length, .includes(), .slice(inicio, final), .replace('este texto', 'por otro'), .trim() y .split(',');
 
+  <b>Práctica: Textos </b>
+  
+  ![Curso2_2 codigo](https://user-images.githubusercontent.com/51362780/195991783-9ccd66c7-9740-4dc4-8512-8e0a1a099765.png)
+
+  Variables booleanas:
+  Solo admiten valores true o false.
+  
+  <b>Práctica: Booleanas </b>
+  
+  ![Curso2_3 codigo](https://user-images.githubusercontent.com/51362780/195992670-0e0859ca-5902-4848-a7be-93590784ae2c.png)
