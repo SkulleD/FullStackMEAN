@@ -220,5 +220,6 @@
   
   ![Curso2_1b codigo](https://user-images.githubusercontent.com/51362780/195987348-8bdb1681-d881-4ae1-acee-787047b04dbd.png)
 
-  
+  Operaciones de strings:
+  Concatenar texto, typeof, .length, .includes(), .slice(inicio, final), .replace('este texto', 'por otro'), .trim() y .split(',');
 
