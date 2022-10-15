@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Álvaro Rodríguez Vila">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica booleanas</title>
+</head>
+
+<body>
+    <p class="texto"></p>
+    <script type="text/javascript">
+        var logged = false;
+        const MESSAGE = document.querySelector('.texto')
+
+        if (logged) {
+            MESSAGE.innerHTML = 'Haz click aquí para ver el contenido.';
+        } else {
+            MESSAGE.innerHTML = 'Debes registrarte para leer este artículo.';
+        }
+    </script>
+</body>
+
+</html>
