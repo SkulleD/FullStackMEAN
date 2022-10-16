@@ -256,4 +256,4 @@
   
   Pueden recibir parámetros y aplicar su lógica con ellos. Pueden retornar esos valores modificados y pueden tener un valor por defecto.
   
-  
+  Se pueden asignar funciones a variables. También se pueden hacer en forma de funciones flecha (lambdas).
