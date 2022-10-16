@@ -170,7 +170,7 @@
   
   ![Curso 1 certificado](https://user-images.githubusercontent.com/51362780/195642729-6aaeafe2-ac07-4975-8226-adee2036d0d4.png)
 
-  - <h4>Curso JavaScript para Principiantes (Punto 1/4 - Introducción)</h4>
+  - <h4>Curso JavaScript para Principiantes</h4>
   
   ¿Qué es un lenguaje de programación web?
   
@@ -257,3 +257,8 @@
   Pueden recibir parámetros y aplicar su lógica con ellos. Pueden retornar esos valores modificados y pueden tener un valor por defecto.
   
   Se pueden asignar funciones a variables. También se pueden hacer en forma de funciones flecha (lambdas).
+  
+  Hecho el examen final del curso de JavaScript para Principiantes. Certificado conseguido.
+  
+  ![Certificado Curso 2](https://user-images.githubusercontent.com/51362780/196053731-de3e7d93-5c9b-4c74-9fb4-c537a12ef7ae.png)
+
