@@ -246,3 +246,14 @@
   
   console.log(type of a). Nos devolverá tipo objeto.
   
+  <h2>16/10/2022</h2>
+    
+  Funciones:
+  
+  Se define con "function nombreFuncion() {}"
+  
+  Por lo general, realizan una única tarea, engloban tu lógica. Las cosas que se generen dentro, se quedan dentro (a no ser que hagamos un return).
+  
+  Pueden recibir parámetros y aplicar su lógica con ellos. Pueden retornar esos valores modificados y pueden tener un valor por defecto.
+  
+  
