@@ -172,7 +172,7 @@
 
   ################################################################################
 
-  - <h4>2: Curso JavaScript para Principiantes</h4>
+ - <h4>2: Curso JavaScript para Principiantes</h4>
   
   ¿Qué es un lenguaje de programación web?
   
@@ -268,8 +268,10 @@
 
   <h2>17/10/2022</h2>
   
-  - <h4>3: Curso JavaScript para Principiantes</h4>
+ - <h4>3: Curso JavaScript para Principiantes</h4>
   
   Objeto: es una colección de propiedades con formato clave : valor.
   
   Se pueden declarar en una variable, construyéndolos desde una función o usando new object.
+  
+  
