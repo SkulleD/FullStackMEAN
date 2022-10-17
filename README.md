@@ -274,4 +274,24 @@
   
   Se pueden declarar en una variable, construyéndolos desde una función o usando new object.
   
+  <b>Práctica: Objetos </b>
   
+  ![Curso3_1 codigo y resultado](https://user-images.githubusercontent.com/51362780/196273589-588ab471-8cf6-40b2-a190-6eaf5286d92e.png)
+
+  Objeto Date:
+  
+  var date = new Date(); Esto tomará la fecha actual del sistema. También sirve para obtener la hora.
+  
+  Algunos métodos de Date: getDate(); getYear(), getMinutes(), getMilliseconds().
+  
+  Objeto Math:
+  
+  Nos permite realizar diferentes operaciones matemáticas, como hallar el mínimo o máximo o redondear un número decimal. Trae métodos con valores
+  predefinidos, como el valor de PI usando Math.PI. También sirve para generar números pseudoaleatorios con Math.random().
+  
+  Arrays:
+  
+  Un array es un conjunto ORDENADO de datos por posiciones. En JavaScript, estos pueden ser de cualquier tipo de dato.
+  
+  Se puede crear un array ya indicando todos sus valores, o usando "new Array()" e indicar el total de posiciones del array o rellenándolo con cierto
+  número de valores. No tienen un tamaño fijo, se les puede añadir o quitar tamaño a arrays ya creados.
