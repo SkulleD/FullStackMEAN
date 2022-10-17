@@ -295,3 +295,12 @@
   
   Se puede crear un array ya indicando todos sus valores, o usando "new Array()" e indicar el total de posiciones del array o rellenándolo con cierto
   número de valores. No tienen un tamaño fijo, se les puede añadir o quitar tamaño a arrays ya creados.
+  
+  Bucles:
+  
+  Sirven para ir iterando los elementos que contiene un array. Un bucle se divide en 3 partes: el comienzo de la iteración, la condición que hará que
+  el bucle deje de dar vueltas (iterar) y en cuánto se quiere ir incrementando cada vuelta.
+  
+  <b>Práctica: Arrays y bucles </b>
+  
+![Curso3_2 codigo y resultados](https://user-images.githubusercontent.com/51362780/196288028-e219643b-6e3e-42e7-9e0d-b15628fe25fb.png)
