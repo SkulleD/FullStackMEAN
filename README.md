@@ -339,5 +339,9 @@
   Los corchetes [] sirven para crear grupos de caracteres. La barra | para indicar diferentes opciones. Dólar $ representa el final de la string (en modo multilínea
   representa una posición en vez de un caracter).
   
+  Hecho el examen final del curso de JavaScript Intermedio. Certificado conseguido.
+  
+  ![Certificado Curso 3](https://user-images.githubusercontent.com/51362780/196500949-f03c73d2-d272-47a8-a6f6-99dc5a5916d3.png)
+
   
   
