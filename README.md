@@ -4,7 +4,7 @@
 
 *A partir de aquí comienzan los cursos de la carrera de Full Stack MEAN.*
 
-- <h4>1: Curso HTML5 y CSS3 (Punto 1/6 - Introducción)</h4>
+- <h4>1: Curso HTML5 y CSS3, por Juan Diego Pérez (Punto 1/6 - Introducción)</h4>
 
   HTML: Hypertext Markup Language. Las páginas web son ficheros con extensión HTML.
   
@@ -172,7 +172,7 @@
 
   ################################################################################
 
- - <h4>2: Curso JavaScript para Principiantes</h4>
+ - <h4>2: Curso JavaScript para Principiantes, por Cristina Ponce</h4>
   
   ¿Qué es un lenguaje de programación web?
   
@@ -268,7 +268,7 @@
 
   <h2>17/10/2022</h2>
   
- - <h4>3: Curso JavaScript Intermedio</h4>
+ - <h4>3: Curso JavaScript Intermedio, por Jonathan Rodríguez</h4>
   
   Objeto: es una colección de propiedades con formato clave : valor.
   
@@ -304,3 +304,15 @@
   <b>Práctica: Arrays y bucles </b>
   
 ![Curso3_2 codigo y resultados](https://user-images.githubusercontent.com/51362780/196288028-e219643b-6e3e-42e7-9e0d-b15628fe25fb.png)
+
+  <h2>18/10/2022</h2>
+  
+  DOM:
+  
+  Es básicamente lo que forma estructura de nuestra web. Está formado por ciertos elementos como: nodos (elementos de la web), selectores (usando JavaScript
+  pueden acceder a los nodos y realizar acciones como extraer información o eliminarlos), document...
+  
+  Selectores:
+  
+  Utilizamos Document para acceder al DOM de nuestra página gracias a sus métodos.
+  
