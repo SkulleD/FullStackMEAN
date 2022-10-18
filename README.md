@@ -317,3 +317,19 @@
   Utilizamos Document para acceder al DOM de nuestra página gracias a sus métodos, ya que hace referencia a todo lo que hay en nuestra web.
   
   Window hace referencia a toda la ventana en general.
+  
+  Eventos:
+  
+  ¿Qué es un evento? Es una acción que sucede en el sistema y te informa para que puede responder de alguna manera si así lo deseas.
+  
+  Tipos de eventos: de teclado (oprimir alguna tecla o combinación de ellas), de ratón (hacer doble click o click derecho), del navegador, eventos propios...
+  
+  Expresiones regulares:
+  
+  ¿Qué son? Vienen siendo un objeto más. Describen patrones de texto, están incluidas en la mayoría de lenguajes de programación y simplifican las tareas
+  de procesamiento de cadenas de texto. Se utilizan para buscar, leer y reemplazar información de cadenas de texto. Estructura: /expresión-regular/[parámetros].
+  
+  Search permite saber si un patrón está en una cadena o no Devuelve el índice de la primera coincidencia o -1 si no hay. Exec ejecuta una búsqueda de las
+  coincidencias de una expresión regular en una stringy devuele un array o null. Test ejecuta una búsqueda de una ocurrencia entre la expresión regular y retorna
+  string o booleano. Match obtiene todas las ocurrencias de una expresión regular en una string.
+  
