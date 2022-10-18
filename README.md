@@ -314,5 +314,6 @@
   
   Selectores:
   
-  Utilizamos Document para acceder al DOM de nuestra página gracias a sus métodos.
+  Utilizamos Document para acceder al DOM de nuestra página gracias a sus métodos, ya que hace referencia a todo lo que hay en nuestra web.
   
+  Window hace referencia a toda la ventana en general.
