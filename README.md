@@ -333,3 +333,9 @@
   coincidencias de una expresión regular en una stringy devuele un array o null. Test ejecuta una búsqueda de una ocurrencia entre la expresión regular y retorna
   string o booleano. Match obtiene todas las ocurrencias de una expresión regular en una string.
   
+  Caracteres especiales: \t = tabulador, \r = retorno de carro, \n = nueva línea, \d = un dígito del 0 al 9, \w = cualquier caracter alfanumérico,
+  \s = espacio en blanco.
+  
+  Los corchetes [] sirven para crear grupos de caracteres. La barra | para indicar diferentes opciones. $ representa el final de la string (en modo multilínea
+  representa una posición en vez de un caracter).
+  
