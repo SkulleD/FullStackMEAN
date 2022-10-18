@@ -336,6 +336,8 @@
   Caracteres especiales: \t = tabulador, \r = retorno de carro, \n = nueva línea, \d = un dígito del 0 al 9, \w = cualquier caracter alfanumérico,
   \s = espacio en blanco.
   
-  Los corchetes [] sirven para crear grupos de caracteres. La barra | para indicar diferentes opciones. $ representa el final de la string (en modo multilínea
+  Los corchetes [] sirven para crear grupos de caracteres. La barra | para indicar diferentes opciones. Dólar $ representa el final de la string (en modo multilínea
   representa una posición en vez de un caracter).
+  
+  
   
