@@ -380,3 +380,14 @@
   
   Listas enlazadas: Cada miembro tiene una referencia al siguiente, por lo tanto, su orden no coincide con el orden en memoria, sino que está determinado por
   dichas referencias. En algunos casos pueden ser más eficientes que un array, pero son sobre todo, eficientes para representación de estructuras como grafos.
+  
+  Asincronía en JavaScript:
+  
+  JS es un lenguaje síncrono, solo dispone de una única pila de llamada y heap. La asincronía con las web APIs se resuelve gracias al cilo de eventos. Cada llamada
+  a una API genera un callback y estos callbacks son solo cuando la pila de llamadas está vacía.
+  
+  Promises o Promesas:
+  
+  Es un objeto de JavaScript que nos permite realizar una acción asíncrona la puede resolverse en el momento actual, en el futuro o nunca. Una promesa recibe 2
+  callbacks, el de resolución y el de rechazo. Es posible encadenar todos los then() o catch() que queramos, ya que una promise se devuelve a sí misma.
+  También se puede usar finally(), que se ejecutará en una promise siempre al final e independientemente del estado en que se encuentre.
