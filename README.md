@@ -391,3 +391,21 @@
   Es un objeto de JavaScript que nos permite realizar una acción asíncrona la puede resolverse en el momento actual, en el futuro o nunca. Una promesa recibe 2
   callbacks, el de resolución y el de rechazo. Es posible encadenar todos los then() o catch() que queramos, ya que una promise se devuelve a sí misma.
   También se puede usar finally(), que se ejecutará en una promise siempre al final e independientemente del estado en que se encuentre.
+  
+  Callsbacks y Errores:
+  
+  Un callback es una función que se proveecomo parámetro y es llamada por la función objetivo al completar su tarea con éxito. Estos pueden ser síncronos o
+  asíncronos. Los callbacks se usan a menudo en operaciones sincrónicas para continuar tareas.
+  
+  En una promise, una función callback nunca es llamada antes de que termine el bucle de eventos. 
+  
+  Encadenamiento de Promises:
+  
+  Cada uso del handler (manejador) then() devuelve una nueva promise con el resultado que haya sido devuelto en el callback anterior. El valor devuelto por defecto
+  será el que se resuelva en la promise retornada. También es posible una promise explícitamente, lo que hará que todos los handles subsiguientes esperen
+  su resolución.
+  
+  Errores y gestión:
+  
+  El catch en las promises no solo gestiona rejects explícitos, también actúa como un try...catch. Cualquier throw de error de cualquier manejador then ocasionará
+  el rechazo de la promise y será capturado por el manejador catch.
