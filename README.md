@@ -347,4 +347,20 @@
   
   - <h4>4: Curso JavaScript Avanzado, por Pablo Huet Carrasco</h4>
   
+  Tipos y tipado dinámico:
+  
+  El tipado de JavaScript es dinámico porque se establecen tipos en tiempo de ejecución, no de compilación. Una variable puede tener cualquier tipo de valor.
+  
+  Tipado débil:
+  
+  Las variables son declaradas sin tipo y estas no exigen la asociación con un tipo de datos de forma implícita y unívoca. Los valores pueden
+  modificarse, compararse y operar entre ellos sin hacer conversiones previas.
+  
+  Coerción de tipos:
+  
+  Proceso de convertir un dato de un tipo a otro. Existen 2 tipos: coerción explícita (casting) e implícita (esta solo es posible en lenguajes con tipado
+  débil como JavaScript). En este lenguaje existen 3 tipos de conversiones: String(), Number() y Boolean().
+  Con el el operador de triple comparación "===" podremos evitar coerción de tipos, al comparar valor y tipo.
+  
+  
   
