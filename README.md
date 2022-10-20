@@ -345,6 +345,6 @@
 
   <h2>20/10/2022</h2>
   
-  - <h4>3: Curso JavaScript Avanzado, por Pablo Huet Carrasco</h4>
+  - <h4>4: Curso JavaScript Avanzado, por Pablo Huet Carrasco</h4>
   
   
