@@ -362,5 +362,21 @@
   débil como JavaScript). En este lenguaje existen 3 tipos de conversiones: String(), Number() y Boolean().
   Con el el operador de triple comparación "===" podremos evitar coerción de tipos, al comparar valor y tipo.
   
+  Expresiones y operadores:
   
+  Una expresión es cualquier acción que nos da un resultado y se realiza entre uno o más operandos. Los operadores son unarios si actúan sobre un único
+  operando y binarios si es entre dos. Los operadores pueden ser de comparación, de asignación o aritméticos.
   
+  Estructuras de datos:
+  
+  Una estructura de datos es una forma de organizar de forma más concreta los datos que permite optimizar su uso. Cada estructura de datos es una abstracción útil
+  para ciertas tareas. La estructura de datos más comúnmente utilizada en JavaScript es el Array o lista.
+  
+  Estructura Set: Estructura de datos compuesta por valores ÚNICOS. Métodos principales: add(); has() y delete().
+  
+  Estructura Map: Estructura de datos que, igual que un objeto de JavaScript, los almacena como clave : valor. Métodos principales: get(), set() y delete().
+  
+  Colas y pilas: Ambas son colecciones que implementan un método para añadir y otro para extraer. La única diferencia que tienen es el orden de extracción.
+  
+  Listas enlazadas: Cada miembro tiene una referencia al siguiente, por lo tanto, su orden no coincide con el orden en memoria, sino que está determinado por
+  dichas referencias. En algunos casos pueden ser más eficientes que un array, pero son sobre todo, eficientes para representación de estructuras como grafos.
