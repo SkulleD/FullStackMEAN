@@ -409,3 +409,14 @@
   
   El catch en las promises no solo gestiona rejects explícitos, también actúa como un try...catch. Cualquier throw de error de cualquier manejador then ocasionará
   el rechazo de la promise y será capturado por el manejador catch.
+  
+  Async y Await:
+ 
+  Funciones asíncronas: Es una función precedida de async que devuelve siempre una promesa. Cualquier valor devuelto que no sea una promesa será introducido en
+  una promesa resuelta. Estas funciones no comparten el tipo Function, sino que están tipadas com AsyncFunction.
+  
+  Uso de await: Se usa en funciones asíncronas definidas con la palabra async. En conjunción con una promise, congela la ejecución de la función
+  hasta que la promise vuelva a ser resuelta. También puede ser usada en cualquier función que devuelva una promise. Que la función sea asíncrona no
+  afecta al flujo del programa principal. Se seguirán realizando todas las llamadas hasta la resolución.
+  
+  
