@@ -343,5 +343,8 @@
   
   ![Certificado Curso 3](https://user-images.githubusercontent.com/51362780/196500949-f03c73d2-d272-47a8-a6f6-99dc5a5916d3.png)
 
+  <h2>20/10/2022</h2>
+  
+  - <h4>3: Curso JavaScript Avanzado, por Pablo Huet Carrasco</h4>
   
   
