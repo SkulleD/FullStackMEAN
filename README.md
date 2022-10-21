@@ -419,4 +419,33 @@
   hasta que la promise vuelva a ser resuelta. También puede ser usada en cualquier función que devuelva una promise. Que la función sea asíncrona no
   afecta al flujo del programa principal. Se seguirán realizando todas las llamadas hasta la resolución.
   
+  <h2>21/10/2022</h2>
   
+  Programación funcional:
+  
+  Se basa en el uso de funciones matemáticas para resolver todos los problemas, es decir, el uso de funciones con transparencia referencial y sin efectos colaterales.
+  
+  Una función pura es cualquiera que no tiene ningún efecto secundario. Su resultado depende únicamente de los parámetros de entrada.
+  
+  Una función idempotente es aquella que aplicada sobre sí misma da ella misma. Si se le llama muchas veces sigue dando el mismo resultado.
+
+  Funciones de primera clase:
+  
+  Son las que pueden ser tratadas como cualquier variable, por lo que pueden ser pasadas como argumentos, retornadas o asignadas a otra variable. En JS
+  todas las funciones son de primera clase.
+  
+  Closure en funciones:
+  
+  Closure es cuando se devuelve una función anónima dentro de otra función, por lo tanto la resultante tiene acceso a las variables definidas en la función
+  generadora. Closure es único para la función contenida y el acceso a sus variables está limitado a la función. Usando Closures es una manera de crear
+  propiedades privadas en JS.
+  
+  Funciones de orden superior:
+  
+  Son una abstracción de tareas comunes para funciones. Operan con funciones o devuelven nuevas funciones. Nos permiten realizar abstracción no solo por valor
+  sino también por valores. Si lo hacemos bien podemos aplicar composición de funciones.
+  
+  Programación funcional. ¿Qué NO es programación funcional?
+  
+  Uso de bucles de iteración (usando mejor la recursión), usar variables var o let (mejor const) y mutaciones de objetos y métodos que producen efectos secundarios
+  como fill, pop o push (una mutación es un cambio en la estructura de un objeto, en vez de sustitución de la instancia).
