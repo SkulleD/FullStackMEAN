@@ -449,3 +449,7 @@
   
   Uso de bucles de iteración (usando mejor la recursión), usar variables var o let (mejor const) y mutaciones de objetos y métodos que producen efectos secundarios
   como fill, pop o push (una mutación es un cambio en la estructura de un objeto, en vez de sustitución de la instancia).
+  
+  ¿Qué es la currificación o currying? Se trata del proceso en que conviertes funciones de N argumentos en N funciones de 1 argumento. Es una forma de reutilizar
+  funciones, convirtiéndolas en "factorías de funciones".
+  
