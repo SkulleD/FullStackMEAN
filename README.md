@@ -477,6 +477,23 @@
   
   ![Certificado Curso 4](https://user-images.githubusercontent.com/51362780/197338543-66b66e50-5da7-437a-8538-797f55aae058.png)
 
-  - <h4>5: Curso de Git, por Juan Carlos Rubio</h4>
+  - <h4>5: Curso de Git, por Juan Carlos Rubio Pineda</h4>
 
-
+  ¿Qué es GIT?
+  
+  Sistema distribuido de control de versiones, muy potente, no depende de un repositorio central, es software libre, dispone de historial de revisiones completo
+  y con ramas diferentes de código (branches) y fusiones de código (merges) es un proceso ágil.
+  
+  Nos permite movernos "en el tiempo" hacia delante o hacia detrás de forma que podemos sacar bloques de códigos de diferentes ficheros en diferentes momentos
+  del tiempo gracias a que las fotografías de estado del histórico se almacenan en un flujo de un repositorio remoto. Git maneja sus datos como una secuencia de
+  copias instantáneas.
+  
+  Detalles de estados de un fichero:
+  
+  Confirmado -> Los datos del archivo están guardados de forma segura de manera local (commited).
+  
+  Modificado -> El archivo ha sido modificado pero aún no lo has guardado en tu base de datos local (untracked).
+  
+  Preparado -> Has marcado un archivo modificado en su versión actual para que vaya en tu próxima confirmación (staged).
+  
+  Fases: Trabajamos en el working directory, vamos metiendo archivos en el área de staging y por último pasamos estos al directorio git.
