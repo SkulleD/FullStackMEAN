@@ -472,3 +472,8 @@
   Creación de submódulos:
   
   Podemos crear submódulos usando las claves del objeto de retorno, lo cual nos permite reorganizar el código en funcionalidades y subfuncionalidades.
+  
+  Hecho el examen final del curso de JavaScript Avanzado. Certificado conseguido.
+  
+  ![Certificado Curso 4](https://user-images.githubusercontent.com/51362780/197338543-66b66e50-5da7-437a-8538-797f55aae058.png)
+
