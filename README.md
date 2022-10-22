@@ -453,3 +453,22 @@
   ¿Qué es la currificación o currying? Se trata del proceso en que conviertes funciones de N argumentos en N funciones de 1 argumento. Es una forma de reutilizar
   funciones, convirtiéndolas en "factorías de funciones".
   
+  <h2>22/10/2022</h2>
+  
+  Módulos:
+  
+  ¿Qué es un módulo? Es un script autocontenido que reúne un conjunto de clases con un namespace propio. Algunas ventajas de usar módulos son que, al ser
+  autocontenidos, estos no tienen dependencia del resto del código y actualizarlos es fácil, ya que no es necesario hacer cambios en el resto del código.
+  La reusabilidad de módulos facilita evitar la duplicación de código.
+  
+  Librerías de funciones:
+  
+  Es habitual tener librerías auxiliares que complementen nuestro código, pero estas funciones suelen requerir variables que pueden resultar caóticas si se
+  definen a nivel global.
+  
+  Acercamiento modular: Al disponer de un scope propio, las variables se vuelven inmodificables fuera del mismo, lo que permite tener librerías completamente
+  aisladas en forma de módulos.
+  
+  Creación de submódulos:
+  
+  Podemos crear submódulos usando las claves del objeto de retorno, lo cual nos permite reorganizar el código en funcionalidades y subfuncionalidades.
