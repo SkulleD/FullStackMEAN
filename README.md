@@ -394,7 +394,7 @@
   
   Callsbacks y Errores:
   
-  Un callback es una función que se proveecomo parámetro y es llamada por la función objetivo al completar su tarea con éxito. Estos pueden ser síncronos o
+  Un callback es una función que se provee como parámetro y es llamada por la función objetivo al completar su tarea con éxito. Estos pueden ser síncronos o
   asíncronos. Los callbacks se usan a menudo en operaciones sincrónicas para continuar tareas.
   
   En una promise, una función callback nunca es llamada antes de que termine el bucle de eventos. 
