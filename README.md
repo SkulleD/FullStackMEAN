@@ -542,3 +542,16 @@
   con los que se encuentran en área de staging, no los del working directoy.
 
   Trabajo remoto:
+  
+  Vinculándome con el proyecto Bat usando el comando git remote add origin https://github.com/sharkdp/bat. Usando git fetch origin para mostrarme los objetos
+  que tiene. Uso git pull origin master para meterlo en mi rama principal llamada "master", el nombre que dan por defecto. Con git branch -v -a puedo ver el
+  acceso a las ramas que tengo.
+  
+  ![Git5](https://user-images.githubusercontent.com/51362780/197414054-3586dfec-e900-4431-b69a-a4653eb25d8a.png)
+
+  Con git clone obtengo el directorio de un repositorio en mi carpeta deseada. Si por casualidad lo meto en la carpeta que quería, puedo usar rm -rf para que
+  fuerce el borrado recursivo de todo lo que contiene esa carpeta y volver a clonar en la que quería.
+  
+  Con git push origin master subo el contenido al repositorio master. Me pedirá las credenciales necesarias antes de poder hacerlo.
+  
+  
