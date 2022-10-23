@@ -554,4 +554,16 @@
   
   Con git push origin master subo el contenido al repositorio master. Me pedirá las credenciales necesarias antes de poder hacerlo.
   
+  Con git checkout me puedo traer el contenido de una rama o un archivo, ya que admite ambos. Sin embargo, si por ejemplo tengo un archivo llamado "master" igual
+  que la rama principal, le diría git checkout --master para dejarle claro que quiero el archivo al ponerle esos -- delante.
   
+  Si por casualidad elimino un archivo sin querer y quiero recuperarlo porque sé que aún está en un revisión anterior puedo usar git checkout HEAD -- .
+  Eso lo que hace es recuperar todo lo de la revisión más reciente.
+  
+  Con git reset HEAD puedo deshacer el lanzamiento de un archivo al área de staging.
+  
+  Con git reset --HARD puedo traerme el contenido del commit y al mismo tiempo eliminar lo que estaba en área de staging y todo lo que hubiese en el working
+  directory que no todavía no haya sido incluido en el staging.
+  
+  Con git revert le digo que me revierta los últimos cambios hechos con la hash ID de la modificación deseada. También se puede indicar un rango de posiciones,
+  por ejemplo decirle git revert HEAD...HEAD~2.
