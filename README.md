@@ -502,6 +502,8 @@
   
   Descargo git y tkdiff. A partir de aquí trabajo usando la consola de comandos de Git.
   
+  Aprobando cambios:
+  
   Creo el subdirectorio "escenario1" en mi carpeta TestGit con mkdir y accedo con cd. Después lanzo el comando git init para cree las estructuras necesarias para
   poder albergar un repositorio de git.
   
@@ -536,4 +538,7 @@
   A la hora de borrar o renombrar/mover ficheros es importante usar git rm y git mv, ya que si se escriben sin el "git" delante, hay que hacer pasos extra
   para que Git se dé cuenta y nosotros podemos tampoco darnos cuenta de que no se ha realizado el cambio de estado.
   
-  
+  Si editamos un fichero y le decimos git status se habrá dado cuenta de que ha sido modificado. Con git diff y añadiendo el atributo --staged haremos que compare
+  con los que se encuentran en área de staging, no los del working directoy.
+
+  Trabajo remoto:
