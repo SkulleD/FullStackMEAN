@@ -552,6 +552,8 @@
   Con git clone obtengo el directorio de un repositorio en mi carpeta deseada. Si por casualidad lo meto en la carpeta que quería, puedo usar rm -rf para que
   fuerce el borrado recursivo de todo lo que contiene esa carpeta y volver a clonar en la que quería.
   
+  ![Git6](https://user-images.githubusercontent.com/51362780/197416497-f1f3c2da-7c2e-4e2f-9517-8fd9d86ddd8c.png)
+
   Con git push origin master subo el contenido al repositorio master. Me pedirá las credenciales necesarias antes de poder hacerlo.
   
   Con git checkout me puedo traer el contenido de una rama o un archivo, ya que admite ambos. Sin embargo, si por ejemplo tengo un archivo llamado "master" igual
