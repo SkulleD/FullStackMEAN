@@ -521,7 +521,19 @@
   ![Git3](https://user-images.githubusercontent.com/51362780/197399487-0c7fa32f-3195-4ce0-a702-5ec37204bd1c.png)
 
   Con el comando git commit lo lanzo al área de commit. Se puede usar el atributo -m para agregar un mensaje al commit. Para poder hacer el commit, antes tengo
-  que decirle mi correo y nombre de usuario. Con git log puedo ver las diferentes revisiones.
+  que decirle mi correo y nombre de usuario. Con git log puedo ver las diferentes revisiones y sus identificadores hash (hash ID). Usando un comando como
+  git log --pretty=format:"%h %an %ar - %s" o git log --pretty"%h %an %ar - %s" (sin el format) nos muestra las revisiones añadiendo más detalles que
+  sustituyen a los parámetros que hayamos introducido.
   
   ![Git4](https://user-images.githubusercontent.com/51362780/197399494-c118d231-32de-4188-a449-551eb6bd9b2e.png)
 
+  Con git diff veo las diferencias entre versiones de un fichero en commit y uno que ha sido modificado pero aún no se ha hecho su commit. Si le digo git difftool
+  entonces usaría la herramienta vimdiff para mostrarme las diferencias a pantalla partida. Si meto la herramiento tkdiff que había descargado previamente en
+  la carpeta usr/bin de Git, ahora este reconocerá tkdiff como herramienta para mostrar las diferencias.
+  
+  Si le digo git show y a continuación mi hash ID nos muestra qué cambió en esa revisión en específico.
+  
+  A la hora de borrar o renombrar/mover ficheros es importante usar git rm y git mv, ya que si se escriben sin el "git" delante, hay que hacer pasos extra
+  para que Git se dé cuenta y nosotros podemos tampoco darnos cuenta de que no se ha realizado el cambio de estado.
+  
+  
