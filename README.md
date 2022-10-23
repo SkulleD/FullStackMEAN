@@ -502,7 +502,7 @@
   
   Descargo git y tkdiff. A partir de aquí trabajo usando la consola de comandos de Git.
   
-  Creo un subdirectorio "escenario1" en mi carpeta TestGit con mkdir y accedo con cd. Después lanzo el comando git init para cree las estructuras necesarias para
+  Creo el subdirectorio "escenario1" en mi carpeta TestGit con mkdir y accedo con cd. Después lanzo el comando git init para cree las estructuras necesarias para
   poder albergar un repositorio de git.
   
   ![Git1](https://user-images.githubusercontent.com/51362780/197399463-d8f4c0a2-90aa-401a-84e5-b10164866d22.png)
