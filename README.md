@@ -497,3 +497,31 @@
   Preparado -> Has marcado un archivo modificado en su versión actual para que vaya en tu próxima confirmación (staged).
   
   Fases: Trabajamos en el working directory, vamos metiendo archivos en el área de staging y por último pasamos estos al directorio git.
+
+  <h2>23/10/2022</h2>
+  
+  Descargo git y tkdiff. A partir de aquí trabajo usando la consola de comandos de Git.
+  
+  Creo un subdirectorio "escenario1" en mi carpeta TestGit con mkdir y accedo con cd. Después lanzo el comando git init para cree las estructuras necesarias para
+  poder albergar un repositorio de git.
+  
+  ![Git1](https://user-images.githubusercontent.com/51362780/197399463-d8f4c0a2-90aa-401a-84e5-b10164866d22.png)
+  
+  ls -lart .git/ nos muestra todo lo que sustenta la funcionalidad de Git.
+  
+  Creo el fichero readme.md añadiendo su primera línea: echo "# primera linea de un fichero readme.md" > readme.md
+  
+  Con el comando git status compruebo si está o no en el área de staging, la que viene después de la del working directory, ni tampoco en la de commit porque todavía
+  no he lanzado ninguna revisión.
+  
+  ![Git2](https://user-images.githubusercontent.com/51362780/197399479-9d4d4b3c-b305-4783-9873-65d1a7db138a.png)
+  
+  Con el comando git add lo meto en el área de staging, por lo tanto, si vuelvo a poner status, ahora me saldrá que sí está en esa área.
+  
+  ![Git3](https://user-images.githubusercontent.com/51362780/197399487-0c7fa32f-3195-4ce0-a702-5ec37204bd1c.png)
+
+  Con el comando git commit lo lanzo al área de commit. Se puede usar el atributo -m para agregar un mensaje al commit. Para poder hacer el commit, antes tengo
+  que decirle mi correo y nombre de usuario. Con git log puedo ver las diferentes revisiones.
+  
+  ![Git4](https://user-images.githubusercontent.com/51362780/197399494-c118d231-32de-4188-a449-551eb6bd9b2e.png)
+
