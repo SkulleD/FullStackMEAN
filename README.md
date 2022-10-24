@@ -595,7 +595,7 @@
   Puedo ser detallista o quisquilloso acerca de cuáles de unos commits quiero unir/merge. Para ello puedo usar git cherry-pick. Por ejemplo:
   git cherry-pick origin/master 5d5bf61.
   
-  Una historia limpia es mucho más fácil de seguir. Es posible reescribir la historia de GIT para reestructuras los commits y asegurar de que son comprensibles
+  Una historia limpia es mucho más fácil de seguir. Es posible reescribir la historia de GIT para reestructurar los commits y asegurar de que son comprensibles
   antes de subir los cambios con el comando rebase. Esto solo se debería hacer con commits que no hayamos compartido con otras personas vía push.
   Ejemplo: git rebase --interactive --root.
   
