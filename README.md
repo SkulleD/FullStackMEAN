@@ -588,3 +588,30 @@
   
   Para filtrar los cambios de hitos y verlos mejor puedo usar git log -p -n y número para que me muestra los N últimos. Por ejemplo: git log -p -n 4.
   También le puedo decir que me los muestre entre un rango de tiempo determinado, por ejemplo: git log --since="2 weeks ago" --until="2 days ago".
+
+  Con git blame puedo saber qué autores han hecho cada modificación de cada archivo, por ejemplo: git blame src/output.rs
+  Si quiero saber solo los autores de ciertas modificaciones de un archivo, por ejemplo de las que se encuentran de 6 a 8, puedo hacer git blame -L 6,8 archivo.
+  
+  Puedo ser detallista o quisquilloso acerca de cuáles de unos commits quiero unir/merge. Para ello puedo usar git cherry-pick. Por ejemplo:
+  git cherry-pick origin/master 5d5bf61.
+  
+  Una historia limpia es mucho más fácil de seguir. Es posible reescribir la historia de GIT para reestructuras los commits y asegurar de que son comprensibles
+  antes de subir los cambios con el comando rebase. Esto solo se debería hacer con commits que no hayamos compartido con otras personas vía push.
+  Ejemplo: git rebase --interactive --root.
+  
+  Git da la posibilidad de etiquetar puntos concretos importantes de la historia. Ejemplo: git tag -a v1.5 -m "Esta es la versión 1.5". Luego vemos la información
+  con git show v1.5
+  
+  Puedo moverme en el tiempo entre estados de un directorio Git. Si después de hacer un commit me doy cuenta de que me ha olvidado algún archivo
+  puedo hacer git commit --amend para mover el puntero hacia atrás, hacer los cambios necesarios y regresar hacia delante, cargándome ese hito, pero arreglando
+  lo que me faltaba.
+  
+  Con git stash puedo hacer una instantánea del momento exacto en el que estoy en ese momento y poder recuperar ese contenido más adelante si lo necesitase
+  con el comando git stash apply.
+  
+  Repositorios Corporativos:
+  
+  
+  
+  
+  
