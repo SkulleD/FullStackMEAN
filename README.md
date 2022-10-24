@@ -578,4 +578,13 @@
   Uso git checkout y nombre de la nueva rama para moverme a esa rama. Si solamente pongo git branch me mostrará todas mis ramas locales . Si le añado "-a" me
   muestra también las ramas en remoto y si además añado "-v" me mostará también incluirá el mensaje commit más reciente de cada rama.
   
+  Puedo unir una rama a otra con el comando git merge rama1 rama2.
   
+  Usando git branch -d rama puedo eliminar esa rama en caso de que ya no la necesite.
+  
+  Git guarda todos los cambios en el repositorio. Tenemos diferentes maneras de localizar problemas en nuestros commits.
+  
+  Para poder ver un cambio que esté en el área de staging tengo que añadir --cached al comando que ya vimos de git diff (git diff --cached).
+  
+  Para filtrar los cambios de hitos y verlos mejor puedo usar git log -p -n y número para que me muestra los N últimos. Por ejemplo: git log -p -n 4.
+  También le puedo decir que me los muestre entre un rango de tiempo determinado, por ejemplo: git log --since="2 weeks ago" --until="2 days ago".
