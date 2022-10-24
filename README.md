@@ -569,3 +569,13 @@
   
   Con git revert le digo que me revierta los últimos cambios hechos con la hash ID de la modificación deseada. También se puede indicar un rango de posiciones,
   por ejemplo decirle git revert HEAD...HEAD~2.
+  
+  <h2>24/10/2022</h2>
+  
+  Flujos de trabajo:
+  
+  Usando git branch puedo crear una nueva rama. Primero indico el nombre de la rama y luego el de la principal, por ejemplo: git branch new-master master.
+  Uso git checkout y nombre de la nueva rama para moverme a esa rama. Si solamente pongo git branch me mostrará todas mis ramas locales . Si le añado "-a" me
+  muestra también las ramas en remoto y si además añado "-v" me mostará también incluirá el mensaje commit más reciente de cada rama.
+  
+  
