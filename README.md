@@ -613,5 +613,8 @@
   
   Tanto GitHub como GitLab sirven como servicios de hosting para GIT proporcionando una interfaz que va por encima como una capa adicional de GIT.
   
+  <h2>25/10/2022</h2>
   
+  - <h4>6: Curso de Angular 11 para Principiantes, por Jonatan Lucas</h4>
+
   
