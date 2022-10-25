@@ -646,7 +646,9 @@
   
   Productividad. Permite crear component, módulos, etc de forma rápida. Angular CLI. Integración con la mayoría de editores de texto.
   
-  Angular CLI es una herramienta en línea de comandos para poder trabajar en Angular, algunos de sus comandos son:
+  Angular CLI es una herramienta en línea de comandos para poder trabajar en Angular, la instalamos con el siguiente comando en nuestra consola: npm install -g @angular/cli
+  
+  Algunos de los comandos de Angular CLI son:
   
   ng new: crea un nuevo proyecto en Angular.
   
