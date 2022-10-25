@@ -615,6 +615,48 @@
   
   <h2>25/10/2022</h2>
   
-  - <h4>6: Curso de Angular 11 para Principiantes, por Jonatan Lucas</h4>
+   Hecho el examen final del curso de Git. Certificado conseguido.
+   
+   
+  
+  - <h4>6: Curso de Angular para Principiantes, por Jonatan Lucas</h4>
 
+  Descargo las herramientas necesarias, como NVM, que es un gestor de versiones de Node y el propio Node. También se usará Git, pero ya lo tenía del curso anterior.
+
+  Repaso TypeScript:
+  
+  En TypeScript la forma de crear una variable es let, a diferencia de JavaScript que la más usada es var. Se encuentran también las tuplas (tuples) que son
+  similares a los arrays, con la diferencia de que una vez inicializados no podremos modificar sus valores.
+  
+  Existe la variable any, que se usará cuando aún no tengamos definida nuestra estructura de datos.
+  
+  TypeScript permite hacer programación orientada a objetos.
+  
+  SPA (Sngle-Page Application):
+  
+  Una SPA es una aplicación web donde todo se carga en la primera petición. Se encarga de enrutado, interfaz fluida y acceso a datos.
+
+  Lo importante, ¿qué es Angular?:
+  
+  Es un framework desarrollado en TypeScript por Google en 2010.
+  
+  Características:
+  
+  Buena velocidad y rendimiento. Es multiplataforma. Carga solo el código de la vista que estemos viendo en ese momento.
+  
+  Productividad. Permite crear component, módulos, etc de forma rápida. Angular CLI. Integración con la mayoría de editores de texto.
+  
+  Angular CLI es una herramienta en línea de comandos para poder trabajar en Angular, algunos de sus comandos son:
+  
+  ng new: crea un nuevo proyecto en Angular.
+  
+  ng build: compila el proyecto.
+  
+  ng config, ng update: para configurar nuestra proyecto.
+  
+  ng add: para añadir plugins al proyecto.
+  
+  ng serve: para ejectuar la aplicación en servidor local.
+  
+  
   
