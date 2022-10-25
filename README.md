@@ -660,5 +660,12 @@
   
   ng serve: para ejectuar la aplicación en servidor local.
   
+  <b>Práctica: Creando mi primer proyecto en Angular</b>
   
-  
+  ![Angular practica1_1](https://user-images.githubusercontent.com/51362780/197837793-88eba1dd-292a-4313-acf4-748c2d7cbcae.png)
+
+![Angular practica1_3](https://user-images.githubusercontent.com/51362780/197837846-3f19ff5e-2876-4f97-8358-3e1ec3c03f80.png)
+
+![Angular practica1_4](https://user-images.githubusercontent.com/51362780/197837857-96721a9e-820f-40c3-8622-f6c956eb4c66.png)
+
+![Angular practica1_5](https://user-images.githubusercontent.com/51362780/197837873-0cabd9bb-421d-41fd-b7a7-996d0d3dedd0.png)
