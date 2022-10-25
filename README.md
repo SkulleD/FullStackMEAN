@@ -613,11 +613,11 @@
   
   Tanto GitHub como GitLab sirven como servicios de hosting para GIT proporcionando una interfaz que va por encima como una capa adicional de GIT.
   
-  <h2>25/10/2022</h2>
+  Hecho el examen final del curso de Git. Certificado conseguido.
   
-   Hecho el examen final del curso de Git. Certificado conseguido.
-   
-   
+  ![Certificado Curso 5](https://user-images.githubusercontent.com/51362780/197885917-50d071c8-add5-4517-a686-8aa05790e1ac.png)
+
+  <h2>25/10/2022</h2>
   
   - <h4>6: Curso de Angular para Principiantes, por Jonatan Lucas</h4>
 
