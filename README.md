@@ -664,8 +664,20 @@
   
   ![Angular practica1_1](https://user-images.githubusercontent.com/51362780/197837793-88eba1dd-292a-4313-acf4-748c2d7cbcae.png)
 
-![Angular practica1_3](https://user-images.githubusercontent.com/51362780/197837846-3f19ff5e-2876-4f97-8358-3e1ec3c03f80.png)
+  ![Angular practica1_3](https://user-images.githubusercontent.com/51362780/197837846-3f19ff5e-2876-4f97-8358-3e1ec3c03f80.png)
 
-![Angular practica1_4](https://user-images.githubusercontent.com/51362780/197837857-96721a9e-820f-40c3-8622-f6c956eb4c66.png)
+  ![Angular practica1_4](https://user-images.githubusercontent.com/51362780/197837857-96721a9e-820f-40c3-8622-f6c956eb4c66.png)
 
-![Angular practica1_5](https://user-images.githubusercontent.com/51362780/197837873-0cabd9bb-421d-41fd-b7a7-996d0d3dedd0.png)
+  ![Angular practica1_5](https://user-images.githubusercontent.com/51362780/197837873-0cabd9bb-421d-41fd-b7a7-996d0d3dedd0.png)
+
+  Arquitectura de Angular:
+  ![Angular practica2](https://user-images.githubusercontent.com/51362780/197845560-36651502-c332-4a60-a50a-1f46f71bcdd4.png)
+
+  Angular se basa en módulos y cada uno de ellos puede tener una funcionalidad concreta en nuestra aplicación. Cada módulo puede contener componentes, servicios,
+  directivas, etc... Toda aplicación contiene un módulo raíz que realiza la función de cargar todo lo necesario para nuestra aplicación.
+  
+  Cada app de Angular tiene al menos un NgModel, el módulo raíz. Una app pequeña solo suele tener uno, pero la mayoría de apps tienen muchos módulos.
+  
+  <b>Práctica: Creando mi estructura de trabajo</b>
+  
+![Angular practica2](https://user-images.githubusercontent.com/51362780/197845781-ca8fc1b3-3631-4f8f-a71e-24e6060ae67f.png)
