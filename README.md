@@ -673,7 +673,6 @@
   ![Angular practica1_5](https://user-images.githubusercontent.com/51362780/197837873-0cabd9bb-421d-41fd-b7a7-996d0d3dedd0.png)
 
   Arquitectura de Angular:
-  ![Angular practica2](https://user-images.githubusercontent.com/51362780/197845560-36651502-c332-4a60-a50a-1f46f71bcdd4.png)
 
   Angular se basa en módulos y cada uno de ellos puede tener una funcionalidad concreta en nuestra aplicación. Cada módulo puede contener componentes, servicios,
   directivas, etc... Toda aplicación contiene un módulo raíz que realiza la función de cargar todo lo necesario para nuestra aplicación.
