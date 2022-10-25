@@ -662,6 +662,8 @@
   
   <b>Práctica: Creando mi primer proyecto en Angular</b>
   
+  ![Angular practica1 enunciado](https://user-images.githubusercontent.com/51362780/197846661-cdc7716a-e777-4867-9e92-fbdd2001769a.png)
+  
   ![Angular practica1_1](https://user-images.githubusercontent.com/51362780/197837793-88eba1dd-292a-4313-acf4-748c2d7cbcae.png)
 
   ![Angular practica1_3](https://user-images.githubusercontent.com/51362780/197837846-3f19ff5e-2876-4f97-8358-3e1ec3c03f80.png)
@@ -680,4 +682,6 @@
   
   <b>Práctica: Creando mi estructura de trabajo</b>
   
-![Angular practica2](https://user-images.githubusercontent.com/51362780/197845781-ca8fc1b3-3631-4f8f-a71e-24e6060ae67f.png)
+  ![Angular practica2 enunciado](https://user-images.githubusercontent.com/51362780/197846685-39711b4e-e447-4629-9045-48b0b16b259e.png)
+  
+  ![Angular practica2](https://user-images.githubusercontent.com/51362780/197845781-ca8fc1b3-3631-4f8f-a71e-24e6060ae67f.png)
