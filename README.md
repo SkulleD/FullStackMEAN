@@ -684,3 +684,22 @@
   ![Angular practica2 enunciado](https://user-images.githubusercontent.com/51362780/197846685-39711b4e-e447-4629-9045-48b0b16b259e.png)
   
   ![Angular practica2](https://user-images.githubusercontent.com/51362780/197845781-ca8fc1b3-3631-4f8f-a71e-24e6060ae67f.png)
+  
+  <h2>26/10/2022</h2>
+  
+  Componentes de Angular:
+  
+  Un componente puede albergar vistas completas o parte de una vista. Definen la lógica de una plantilla dentro de una clase a través de una API de
+  atributos/propiedades y métodos. Para crear un componente se usa en consola el comando: ng generate component nombre_componente.
+  
+  Ciclo de vida de un componente: Constructor, OnChanges, OnInit, DoCheck, AfterContentInit, AfterContentChecked, AfterViewInit, AfterViewChecked y OnDestroy.
+  
+  Metadatos de un componente: Le indican a Angular de dónde obtener los principales bloques que se necesitan para crear y presentar un componente y su vista.
+  Los principales son: selector, templateUrl y styleUrls. Se puede usar un provider para que solo afecte a ese componente y no a toda la aplicación.
+  
+  Plantillas y vistas: Una plantilla es como un archivo HTML donde se le añade la sintaxis de Angular para poder alterar el DOM a través de la lógica de
+  la aplicación.
+  
+  <b>Práctica: Creando mi primer componente</b>
+  
+  
