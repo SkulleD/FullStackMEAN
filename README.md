@@ -708,4 +708,21 @@
   
   ![Angular practica3](https://user-images.githubusercontent.com/51362780/198078131-a5a5f405-309a-477b-95df-e518b80e0591.png)
 
+  Data Binding en Angular:
+  
+  Hace referencia al enlace de los atributos o métodos de nuestro componente con la plantilla. Sin un framework seríamos responsables de enlazar la información
+  en el HTML con el componente, lo que supondría un trabajo pesado. Desde el componente al DOM se mostrará el valor del atributo o método en el DOM. Esta opción
+  solo es válida para enlazar un valor con una propiedad/atributo de una etiqueta HTML. Desde el DOM al componente lanza eventos del DOM y ejecuta un evento cuando
+  se lance dicho evento. Double data-binding: se utiliza en etiquetas input.
+  
+  Directivas:
+  
+  Las directivas procesan el DOM y lo transforman de acuerdo con las instrucciones dadas en ellas. Para crear directivas se usa @Directive(), donde el valor
+  selector indicará la misma. Podríamos decir que técnicamente un componente es una directiva, pero con un decorador diferente. Hay 2 tipos:
+  estructurales (Modifican el diseño del DOM: "*ngFor", "*ngIf") y de atributo (Alteran la aparencia o comportamiento de un elemento)
+  
+  El símbolo # (almohadilla) se usa para declarar una variable en plantilla. Con ella tenemos acceso a los valores de la etiqueta donde se inicializa.
+  
+  <b>Práctica: Manejando datos en mis componentes</b>
+  
   
