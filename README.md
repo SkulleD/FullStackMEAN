@@ -690,7 +690,8 @@
   Componentes de Angular:
   
   Un componente puede albergar vistas completas o parte de una vista. Definen la lógica de una plantilla dentro de una clase a través de una API de
-  atributos/propiedades y métodos. Para crear un componente se usa en consola el comando: ng generate component nombre_componente.
+  atributos/propiedades y métodos. Para crear un componente se usa en consola el comando: ng generate component nombre_componente. También se puede
+  abreviar como ng g c nombre_componente.
   
   Ciclo de vida de un componente: Constructor, OnChanges, OnInit, DoCheck, AfterContentInit, AfterContentChecked, AfterViewInit, AfterViewChecked y OnDestroy.
   
@@ -702,4 +703,9 @@
   
   <b>Práctica: Creando mi primer componente</b>
   
+  Ejecuto en Powershell el comando Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine para poder realizar la prática, ya que sino Windows
+  no deja hacerlo.
+  
+  ![Angular practica3](https://user-images.githubusercontent.com/51362780/198078131-a5a5f405-309a-477b-95df-e518b80e0591.png)
+
   
