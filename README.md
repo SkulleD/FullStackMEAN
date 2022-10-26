@@ -723,6 +723,18 @@
   
   El símbolo # (almohadilla) se usa para declarar una variable en plantilla. Con ella tenemos acceso a los valores de la etiqueta donde se inicializa.
   
-  <b>Práctica: Manejando datos en mis componentes</b>
+  Navegación:
+  
+  La etiqueta '<head>' es la que permite a Angular crear el punto de partida. de la navegación.
+  
+  Si queremos añadir rutas en Angular podemos hacer con: ng generate module app-routing --flat--module=app. Para añadir rutas usaremos los parámetros de ruta:
+  path (nombre url) y component (componente al que accede). Hay rutas extras: path:" (indica la ruta por defecto de la web) y path:'**' (cuando la ruta
+  no se encuentra en el router de Angular).
+  
+  RouterOutlet:
+  
+  Se encarga de mostrar vistas de los componentes cargados en cada una de las rutas creadas. Tenemos que tener mínimo esta etiqueta en app.component.htmh.
+  Navegación entre vistas: RouterLink (atributo de etiqueta). Clase router (se llama a este método desde el HTML a través de un click). Para 'volver' al
+  último enlace guardado en el historial desde un componente se utilizará una clase diferente al Router de Angular, se llama Location y es de JavaScript.
   
   
