@@ -737,4 +737,11 @@
   Navegación entre vistas: RouterLink (atributo de etiqueta). Clase router (se llama a este método desde el HTML a través de un click). Para 'volver' al
   último enlace guardado en el historial desde un componente se utilizará una clase diferente al Router de Angular, se llama Location y es de JavaScript.
   
+  <b>Práctica: Navegando en mi proyecto</b>
   
+  ![Angular practica5_2](https://user-images.githubusercontent.com/51362780/198097684-bac3c176-af4f-4a17-bdca-1527eb5517bf.png)
+  
+  ![Angular practica5_4](https://user-images.githubusercontent.com/51362780/198097712-e177d8ef-a22f-4582-8db4-46e8bb627c2f.png)
+
+  
+
