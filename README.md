@@ -754,5 +754,48 @@
   Se usa para añadir funcionalidades extra a la aplicación. Aumentan la reutilización de funcionalidades sobre componentes. Sus usos más habituales son
   reutilizar código y peticiones a REST API. Usamos el comando: ng generate service nombreServicio.
   
+  Peticiones HTTP:
   
+  La mayoría de aplicaciones web se comunican con un servidor y estos les proporcionan la información necesario a través del protocolo HTTP. Los navegadores
+  modernos admiten 2 APIs: XMLHttpRequest y Fetch. En Angular tenemos la librería HttpClient, basada en la interfaz XMLHttpRequest, para realizarlas.
+  Lo habitual es manejar la información entre nuestra aplicación y el servidor a través del formato JSON, son las conocidas REST API. Para poder realizar
+  peticiones en nuestro proyecto hace falta cargar el módulo HttpClientModule en el raíz, cargar la librería en el servicio que la necesitemos e
+  iniciar la clase.
+  
+  Observables:
+  
+  Equivalen a callback() en JavaScript. Se usan para peticiones asíncronas. Una vez recibida la respuesta del servidor, el Observable envía la
+  información al/los componentes que están esperando dicha información.
+  
+  Tipos de Peticiones HTTP:
+  
+  GET: recupera información.
+  
+  POST: recupera información en un body.
+  
+  DELETE: elimina un objeto del servidor.
+  
+  PUT: actualiza información de un objeto del servidor.
+  
+  Muchas peticiones requieren cabeceras/headers para operaciones como, por ejemplo, el token de autorización para operaciones de guardado o eliminar un objeto
+  del servidor.
+  
+  <b>Práctica: Peticiones API REST</b>
+  
+  ![Angular practica6_1](https://user-images.githubusercontent.com/51362780/198107268-7077d353-284c-4865-b149-60c4f8e1cbb0.png)
 
+  ![Angular practica6_3](https://user-images.githubusercontent.com/51362780/198107278-ccb9dc3b-01f2-4d5d-bb58-a37badff1e12.png)
+
+  Formularios:
+  
+  Angular provee 2 tipos de formularios. Ambos recogen los eventos y datos desde las etiquetas input, validan datos, crean modelos de formularios y los envían
+  al componente. Los 2 tipos son: Formularios Template-drive /de plantilla (para webs con 1 ó 2 formularios como máximo) y formularios Reactive/reactivos
+  (para webs con muchos formularios, como una zona de administración).
+  
+  Validación: se realiza de la misma forma que cualquier formulario en HTML. Angular usa directivas para unir esos atributos con sus funciones de
+  validación, por ejemplo: required, minlength, forbiddenName.
+  
+  <b>Práctica: Formulario en Angular</b>
+  
+  
+  
