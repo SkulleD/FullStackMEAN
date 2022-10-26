@@ -743,5 +743,16 @@
   
   ![Angular practica5_4](https://user-images.githubusercontent.com/51362780/198097712-e177d8ef-a22f-4582-8db4-46e8bb627c2f.png)
 
+  Inyectores de dependencias:
+  
+  Enlazan un componente con un servicio u otro tipo de clase que se necesite. El metadato usado es @Injectable(). Para añadir un servicio al inyector usamos
+  los providers. Se crea un inyector principal para toda la aplicación y luego inyectores adicionales según se necesiten. Cada instancia de un servicio en
+  el inyector es única (singleton).
+  
+  Servicios en Angular:
+  
+  Se usa para añadir funcionalidades extra a la aplicación. Aumentan la reutilización de funcionalidades sobre componentes. Sus usos más habituales son
+  reutilizar código y peticiones a REST API. Usamos el comando: ng generate service nombreServicio.
+  
   
 
