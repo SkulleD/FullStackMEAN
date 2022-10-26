@@ -797,5 +797,6 @@
   
   <b>Práctica: Formulario en Angular</b>
   
-  
+  ![Angular practica7_2](https://user-images.githubusercontent.com/51362780/198111053-eaf6e1c3-1734-488d-a6c2-f10c226f7b7e.png)
+
   
