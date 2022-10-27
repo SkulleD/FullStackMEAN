@@ -1,0 +1,1 @@
+Sin comprimir son 400MB y 40.000 archivos y comprimida son 105MB y el límite de GitHub es 25MB.
