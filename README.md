@@ -809,4 +809,6 @@
   
   Hecho el examen final del curso de Angular para Principiantes. Certificado conseguido.
   
-  
+  ![Certificado Curso 6](https://user-images.githubusercontent.com/51362780/198350520-87b7683f-e7bd-47f7-843e-59746e2f3a5b.png)
+
+  - <h4>7: Curso de Angular - Ampliando Conceptos, por Jonatan Lucas</h4>
