@@ -805,3 +805,8 @@
 
   ![Angular practica7_7](https://user-images.githubusercontent.com/51362780/198332598-34e38ffd-99c6-46ef-a69c-a3d15e6fffea.png)
 
+  <h2>27/10/2022</h2>
+  
+  Hecho el examen final del curso de Angular para Principiantes. Certificado conseguido.
+  
+  
