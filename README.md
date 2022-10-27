@@ -797,6 +797,11 @@
   
   <b>Práctica: Formulario en Angular</b>
   
-  ![Angular practica7_2](https://user-images.githubusercontent.com/51362780/198111053-eaf6e1c3-1734-488d-a6c2-f10c226f7b7e.png)
+  ![Angular practica7_1](https://user-images.githubusercontent.com/51362780/198332508-a14c99bb-4be9-482b-8e85-a2fbd0e877db.png)
 
-  
+  ![Angular practica7_3](https://user-images.githubusercontent.com/51362780/198332526-533fce88-e36a-4151-9390-1032203c74a1.png)
+
+  ![Angular practica7_4](https://user-images.githubusercontent.com/51362780/198332583-2b560f7a-8608-40e0-8961-3826d5ac765e.png)
+
+  ![Angular practica7_7](https://user-images.githubusercontent.com/51362780/198332598-34e38ffd-99c6-46ef-a69c-a3d15e6fffea.png)
+
