@@ -794,6 +794,8 @@
   
   Validación: se realiza de la misma forma que cualquier formulario en HTML. Angular usa directivas para unir esos atributos con sus funciones de
   validación, por ejemplo: required, minlength, forbiddenName.
+
+  <h2>27/10/2022</h2>
   
   <b>Práctica: Formulario en Angular</b>
   
@@ -804,11 +806,42 @@
   ![Angular practica7_4](https://user-images.githubusercontent.com/51362780/198332583-2b560f7a-8608-40e0-8961-3826d5ac765e.png)
 
   ![Angular practica7_7](https://user-images.githubusercontent.com/51362780/198332598-34e38ffd-99c6-46ef-a69c-a3d15e6fffea.png)
-
-  <h2>27/10/2022</h2>
   
   Hecho el examen final del curso de Angular para Principiantes. Certificado conseguido.
   
   ![Certificado Curso 6](https://user-images.githubusercontent.com/51362780/198350520-87b7683f-e7bd-47f7-843e-59746e2f3a5b.png)
 
   - <h4>7: Curso de Angular - Ampliando Conceptos, por Jonatan Lucas</h4>
+  
+  Relaciones entre componentes:
+  
+  Cuando hablamos de relación Padre-Hijo entre componentes nos referimos a cuando la etiqueta de un componente se encuentra en la plantilla de otro.
+  
+  Tipos:
+  
+  -> Comunicación Padre-Hijo a través del decorador @Input(). @Input() enlaza el atributo de la etiqueta con el atributo del componente.
+  
+  -> Comunicación Padre-Hijo con @ngOnChanges(). @onChanges() detecta la modificación de datosy realiza alguna tarea de comprobación
+  
+  -> Comunicación Hijo-Padre a través de métodos.
+  
+  -> Acceso del componente Padre a atributos y métodos del componente hijo.
+  
+  -> Acceso del componente Padre a atributos y métodos del componente hijo a través del decorador @ViewChild()
+  
+  -> Comunicación entre componentes a través de un servicio.
+  
+  Decorador @Output: El atributo que lo tenga será tipo EventEmitter<>. Este tipo de objetos emiten un evento que se recupera en el componente padre. Para poder
+  iniciarlo necesitamos llamar al método .emit(). La forma de recibir el Padre el evento del componente hijo es introducir el nombre del atributo
+  entre paréntesis y se iguala el evento a un método del componente padre. Si el evento del componente hijo envía algún valor debemos añadir al método
+  del componente Padre la variable $event.
+  
+  Relación mediante servicios:
+  
+  Cada atributo que queramos compartir a través de un servicio deberá de tener estos tres objetos: atributo privado, Observable para suscribirnos y 
+  un método setter que actualizará el valor del atributo privado. Utilizaremos la clase Subject cuando los componentes estén en la misma vista, es decir,
+  relación Padre-Hijo o que ambos sean Hijos de otro componentes. Para relacionar componentes que se encuentran en vistas distintas usaremos la clase
+  BehaviorSubject.
+  
+  
+  
