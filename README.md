@@ -843,5 +843,16 @@
   relación Padre-Hijo o que ambos sean Hijos de otro componentes. Para relacionar componentes que se encuentran en vistas distintas usaremos la clase
   BehaviorSubject.
   
+  <h2>28/10/2022</h2>
+  
+  <b>Práctica: Creando usos de relación entre componentes</b>
+  
+  ![Curso7 practica1_1](https://user-images.githubusercontent.com/51362780/198732583-dd698868-56c1-4140-a3e2-cf8eaf3e0878.png)
+
+  ![Curso7 practica1_3](https://user-images.githubusercontent.com/51362780/198732641-eaab6977-a4d0-4805-9471-210c2159bce7.png)
+
+  ![Curso7 practica1_7](https://user-images.githubusercontent.com/51362780/198732695-a6b3fe7f-6c95-47f7-b56c-247beca26790.png)
+
+  
   
   
