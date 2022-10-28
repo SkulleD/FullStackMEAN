@@ -853,6 +853,29 @@
 
   ![Curso7 practica1_7](https://user-images.githubusercontent.com/51362780/198732695-a6b3fe7f-6c95-47f7-b56c-247beca26790.png)
 
+  Directiva ngClass:
   
+  Nos permite añadir o eliminar las clases CSS que queramos y actualiza nuestro diseño.
   
+  Directiva ngStyle:
   
+  Nos permite añadir o eliminar los estilos que queramos y actualiza nuestro diseño. La principal diferencia es que ngStyle añade un valor dependiendo de
+  la condición.
+  
+  Directiva ngSwitch:
+  
+  Nos permite renderizar diferentes elementos según la condición dada.
+  
+  Pipes en Angular:
+  
+  Son tuberías que se utiliza para transformar el valor de una variable, como poner un texto en mayúsculas o filtrar una lista, así: {{ valorVariable | nombrePipe }}
+  Podemos crear nuestras propias pipes con el comando: "ng generate pipe nombre Pipe".
+  
+  <b>Práctica: ngClass y Pipes</b>
+  
+  ![Curso7 practica2_1](https://user-images.githubusercontent.com/51362780/198738447-d3d36560-8765-4404-84dc-866cc835a9e6.png)
+
+  ![Curso7 practica2_2](https://user-images.githubusercontent.com/51362780/198738464-666c72a5-35d4-4198-abe2-01fd992a0c2d.png)
+
+  ![Curso7 practica2_4](https://user-images.githubusercontent.com/51362780/198738480-a0c997dc-f004-4d7b-a61e-08db8f45bef0.png)
+
