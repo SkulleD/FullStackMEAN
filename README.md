@@ -879,3 +879,12 @@
 
   ![Curso7 practica2_4](https://user-images.githubusercontent.com/51362780/198738480-a0c997dc-f004-4d7b-a61e-08db8f45bef0.png)
 
+  Extraer parámetros:
+  
+  Añadimos el parámetros coloando ":" delante del nombre en la ruta. Para pasar el parámetro añadimos el valor que tendrá nuestro parámetro en la url.
+  Podemos recuperar el parámetro con la clase ActivatedRoute.
+  
+  Rutas anidadas:
+  
+  Podemos crear varios niveles de rutas para agrupar diferentes funcionalidades y componente bajo un mismo componente principal. Pero no basta con eso, también
+  hay que colocar componente que tengas rutas anidadas una etiqueta <router-outlet> para que Angular sepa renderizarlas.
