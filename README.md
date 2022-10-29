@@ -913,4 +913,19 @@
 
   ![Curso7 practica4_4](https://user-images.githubusercontent.com/51362780/198842488-e19284f7-40ac-4fcc-9342-103e88b5106d.png)
 
+  Submódulos y sus componentes:
+  
+  Para crear un nuevo módulo usamos: ng generate module nombreModulo. El código por defecto de los submódulos es similar al AppModule que está en nuestro proyecto.
+  Para saber nuestro módulo raíz usaremos el archivo main.ts, que ya mencionamos en el curso anterior, para que Angular identifique su módulo principal.
+  
+  Para crear componentes de los submódulos se usa: ng generate component submodulo/componente.
+  
+  Mostrar los componentes de un submódulo:
+  
+  Hay 2 formas: añadiendo el componente a los exports de dicho submódulo y así poder utilizar su selector en otro punto fuera de este submódulo o, también, la otra
+  manera, que es añadiendo rutas al submódulo y sus componentes, llamado "lazy loading". Hay que añadir una ruta en el archivo de rutas para importar el
+  submódulo a cargar. En el submódulo (u otro app-sub-routing, si queremos crearlo) debemos añadir las rutas al enrutado con .forChild()
+  
+  <b>Práctica: Transformando mi aplicación en submodular</b>
+  
   
