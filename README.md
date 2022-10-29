@@ -907,5 +907,10 @@
 
   <b>Práctica: Añadiendo seguridad</b>
   
-  
+  ![Curso7 practica4_1](https://user-images.githubusercontent.com/51362780/198842470-6794180e-4e0a-4163-80ce-503f77d4c807.png)
+
+  ![Curso7 practica4_3](https://user-images.githubusercontent.com/51362780/198842484-5b631330-5a69-4362-b95c-bba6bb29a39d.png)
+
+  ![Curso7 practica4_4](https://user-images.githubusercontent.com/51362780/198842488-e19284f7-40ac-4fcc-9342-103e88b5106d.png)
+
   
