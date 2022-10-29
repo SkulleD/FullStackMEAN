@@ -951,4 +951,9 @@
   
   <b>Práctica: Creando un formulario reactivo</b>
   
-  
+  ![Curso7 practica6_1](https://user-images.githubusercontent.com/51362780/198846474-fe24d350-628d-40ab-a9b1-bf2dd04e9de1.png)
+
+  ![Curso7 practica6_3](https://user-images.githubusercontent.com/51362780/198846481-fac6c8b1-05c5-4b04-ab64-7ae082e7e16d.png)
+
+  ![Curso7 practica6_4](https://user-images.githubusercontent.com/51362780/198846496-718f029f-3550-4e74-8059-c5a7d0dd912d.png)
+
