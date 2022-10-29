@@ -888,3 +888,24 @@
   
   Podemos crear varios niveles de rutas para agrupar diferentes funcionalidades y componente bajo un mismo componente principal. Pero no basta con eso, también
   hay que colocar componente que tengas rutas anidadas una etiqueta <router-outlet> para que Angular sepa renderizarlas.
+  
+  <h2>29/10/2022</h2>
+  
+  CanActivate:
+  
+  Es un servicio con su propia forma de crearse. Para crear un "guard" se usa el comando: ng generate guard auth --implements CanActivate.
+  Se utiliza para limitar a los usuarios el acceso a ciertas rutas como puede ser una zona de administración. Para comprobar el acceso a una ruta debemos añadir
+  el parámetro canActivate a la ruta creada y pasarle en un array la clase del servicio guard.
+  
+  <b>Práctica: Creando nuevas rutas</b>
+  
+  ![Curso7 practica3_1](https://user-images.githubusercontent.com/51362780/198841725-5182e63d-a3f6-446b-ab45-d7b6e5492dc7.png)
+
+  ![Curso7 practica3_3](https://user-images.githubusercontent.com/51362780/198841796-b5ec8abb-6045-4fb8-8f17-9b7a00eceec6.png)
+  
+  ![Curso7 practica3_12](https://user-images.githubusercontent.com/51362780/198841813-690a4c82-46ae-4a82-bc2f-9bb160d9b0ae.png)
+
+  <b>Práctica: Añadiendo seguridad</b>
+  
+  
+  
