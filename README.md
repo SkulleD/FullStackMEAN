@@ -928,4 +928,10 @@
   
   <b>Práctica: Transformando mi aplicación en submodular</b>
   
+  ![Curso7 practica5_1](https://user-images.githubusercontent.com/51362780/198845150-f6704de7-d4c8-441e-8340-1a02da22491a.png)
   
+  ![Curso7 practica5_2](https://user-images.githubusercontent.com/51362780/198845153-a98e3622-8025-4930-b775-0621de1fa689.png)
+
+  ![Curso7 practica5_5](https://user-images.githubusercontent.com/51362780/198845163-6230b6f5-439f-4e8b-9d42-5f8c9e299ffb.png)
+
+
