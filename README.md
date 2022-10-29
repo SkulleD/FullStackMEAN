@@ -934,4 +934,21 @@
 
   ![Curso7 practica5_5](https://user-images.githubusercontent.com/51362780/198845163-6230b6f5-439f-4e8b-9d42-5f8c9e299ffb.png)
 
-
+  Formularios reactivos:
+  
+  Hay 2 tipos de formularios en Angular, como se vio en el curso pasado: Template-driven y Reactive, ahora nos centramos en estos últimos. Como recordamos, se usan
+  para webs con muchos formularios como una zona de administración.
+  
+  Lo primero que se hace es añadir el módulo ReactiveFormsModule a nuestro módulo para poder usar las funcionalidades de Angular para formulario reactivo. La clase
+  más básica para crear un formulario reactivo es FormControl, que nos permite crear una instancia de un objeto y podremos utilizarlo en el formulario HTML.
+  Usaremos FormGroup para tener un formulario de varios campos. Para enlazar con el atributo del componente usaremos formGroup para el formulario y formControlName
+  para cada uno de los valores. Los form group se pueden anidar.
+  
+  Validar formularios reactivos:
+  
+  A diferencia de los formularios de plantilla o template, en los reactivos añadimos los requisitos de validación a continuación de la declaración de parámetro. En el
+  HTML será parecido a los de plantilla, con unas diferencias: no es necesario colocar atributos como required o minLength.
+  
+  <b>Práctica: Creando un formulario reactivo</b>
+  
+  
