@@ -957,3 +957,25 @@
 
   ![Curso7 practica6_4](https://user-images.githubusercontent.com/51362780/198846496-718f029f-3550-4e74-8059-c5a7d0dd912d.png)
 
+  <h2>30/10/2022</h2>
+  
+  Material Design:
+  
+  "Material" es un lenguaje de diseño que define un conjunto de pautas que muestran cómo diseñar un sitio web. Le indica qué botones se deben usar y cuáles, cómo
+  animarlos o moverlos, cómo deben colocarse, etc... Es un lenguaje diseño principalmente para dispositivos móviles. Diferencias con Bootstrap:
+  Este está orientado a crear una mejor experiencia del sitio web en vez de hacerlo responsive, este se basa en componentes a la hora de trabajar en vez de
+  ser una biblioteca UI que presenta un sistema de cuadrícula. Ambos son compatibles con todos los navegadores de hoy en día y ambo tienen una amplia
+  documentación y comunidad (Bootstrap más porque lleva más tiempo).
+  
+  Para instalar Material usamos el comando: ng add @angular/material.
+  
+  Usando Angular Material:
+  
+  También necesitamos importar la clase que necesitemos usar en los imports del módulo. Donde necesitemos la etiqueta la etiqueta podremos añadirle siguiente
+  su nomenclatura.
+  
+  <b>Práctica: Añadiendo estilo a mi aplicación</b>
+  
+  
+  
+  
