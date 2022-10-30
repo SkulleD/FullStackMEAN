@@ -976,6 +976,15 @@
   
   <b>Práctica: Añadiendo estilo a mi aplicación</b>
   
+  ![Curso7 practica7_1](https://user-images.githubusercontent.com/51362780/198891616-945f1896-6f00-43cf-8d46-5d30d8126ebb.png)
+
+  ![Curso7 practica7_2](https://user-images.githubusercontent.com/51362780/198891641-5e661f6d-d621-4424-b057-a5572b92e476.png)
+
+  ![Curso7 practica7_4](https://user-images.githubusercontent.com/51362780/198891643-baddeeb2-1b23-44d0-8671-dd9ba6aa2d04.png)
   
+  Compilar nuestra aplicación:
+  
+  Con el comando "ng build --prod" o "ng build" podemos compilarla. Angular compila una serie de archivos entre los que podemos ver el index.html, los estilos,
+  la carpeta assets y los archivos JavaScript para poder ejecutar nuestra aplicación.
   
   
