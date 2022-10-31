@@ -1013,7 +1013,23 @@
   máximo de caracteres en una línea sea 140, etc...
   
   Con el comando ng lint podemos comprobar si todos nuestros archivos están cumpliendo las normas.
+  Con el comando ng serve -o nos dice donde hay errores en nuestra aplicación.
+  
+  Nombres de ficheros:
+  
+  La guía de estilos de Angular dice que los nombres de archivos de componentes deben acabar siempre en ".component". Los nombres de los ficheros deben
+  aparecer separados por guiones. El nombres de las clases debe estar en camelCase y el nombre de las clases de componentes deben tener el sufijo "Component"
+  al final del nombre. El nombre de los ficheros de servicios debe terminar en ".service". Todos los modelos deben terminar en ".model". Los de ruta deben terminar
+  en "-routing.module"
+  
+  Principio de responsabilidad única:
+  
+  Es importante que un objeto, una clase o un archivo solo debe realizar un única función. El orden de cosas en una clase debe ser: propiedades -> constructor ->
+  implementaciones del componente -> métodos públicos -> métodos privados
   
   
+  
+  
+
   
   
