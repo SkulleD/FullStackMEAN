@@ -1027,9 +1027,8 @@
   Es importante que un objeto, una clase o un archivo solo debe realizar un única función. El orden de cosas en una clase debe ser: propiedades -> constructor ->
   implementaciones del componente -> métodos públicos -> métodos privados
   
+  Estructura:
   
-  
-  
-
-  
+  Es importante tener bien estructura la aplicación y para ello un buen método es tenerlo todo organizado en carpeta. Cada carpeta debe tener cosas que tengan
+  relaciones en común con el nombre de la carpeta.
   
