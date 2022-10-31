@@ -987,7 +987,7 @@
   Con el comando "ng build --prod" o "ng build" podemos compilarla. Angular compila una serie de archivos entre los que podemos ver el index.html, los estilos,
   la carpeta assets y los archivos JavaScript para poder ejecutar nuestra aplicación.
   
-  Hecho el examen final del curso de Angular para Principiantes. Certificado conseguido.
+  Hecho el examen final del curso de Angular - Ampliando Conceptos. Certificado conseguido.
   
   ![Certificado Curso 7](https://user-images.githubusercontent.com/51362780/199107606-3c726ea3-b559-4d3f-9392-32fcfb66f3d3.png)
 
