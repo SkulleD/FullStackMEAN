@@ -991,4 +991,29 @@
 
   - <h4>8: Curso de Buenas Prácticas en Angular, por Samuel Comino</h4>
   
+  Archivo de configuración de Angular CLI:
+  
+  "sourceRoot": en donde le decimos a Angular que se encuentran todos los archivos del documento. El predeterminado es "src".
+  
+  "prefix": está presente en todos los componentes, directivas y pipes. El predeterminado es "app".
+  
+  "outputPath": es el directorio donde Angular compilará la aplicación. El predeterminado es "dist/myapp".
+  
+  "index": es el punto de entrada de nuestra web.
+  
+  "main": el módulo de inicio.
+  
+  "assets": donde metemos archivos como imágenes que queramos mostrar en la aplicación. También se puede cambiar el icono.
+  
+  "styles": para darle una hoja de estilos.
+  
+  Usando Tslint:
+  
+  En este archivo se pueden modificar una gran cantidad de parámetros, como tener que dejar un espacio en blanco después de abrir llaves en un if, que el
+  máximo de caracteres en una línea sea 140, etc...
+  
+  Con el comando ng lint podemos comprobar si todos nuestros archivos están cumpliendo las normas.
+  
+  
+  
   
