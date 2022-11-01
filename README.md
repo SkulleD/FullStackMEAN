@@ -1036,3 +1036,20 @@
   Es importante tener bien estructura la aplicación y para ello un buen método es tenerlo todo organizado en carpeta. Cada carpeta debe tener cosas que tengan
   relaciones en común con el nombre de la carpeta.
   
+  <h2>01/11/2022</h2>
+  
+  Lazy Loading:
+  
+  Si tenemos una aplicación que ocupa, por ejemplo, más de 5MB, no es necesario que los usuarios se descarguen toda la aplicación. Dentro de las rutas, al final
+  se le indica con un # el módulo que queremos que Angular cargue, por ejemplo #LoginModule.
+  
+  Optimizando bundles:
+  
+  Con el comando npm install -g source-map explorer podemos instalar la librería Source Map Explorer. Añadiendo "sme" después de run y ejecutar el comando nos genera
+  un html con todo lo que hay en el proyecto.
+  
+  Compilar la aplicación:
+  
+  Para compilarla usamos el comando "ng build" (también se puede añadir --prod pero no hace falta).
+  
+  
