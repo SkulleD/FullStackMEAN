@@ -1052,4 +1052,44 @@
   
   Para compilarla usamos el comando "ng build" (también se puede añadir --prod pero no hace falta).
   
+  <h2>03/11/2022</h2>
+  
+  - <h4>9 (FINAL): Curso de MongoDB, por Pedro Martín</h4>
+  
+  Bases de datos SQL:
+  
+  Son la forma más extendida de almacenar información, la cual se organiza en tablas y cada tabla está formada por filas/registros. La información puede estar
+  relacionada, por eso se llaman bases de datos relacionales. Usan SQL como lenguaje estructurado de consultas. Permiten el uso de transacciones, respetando
+  los 4 principios ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad), que básicamente se encarga de que la base de datos (BD) tenga coherencia y no
+  queden registros sueltos. Las BD SQL siguen un esquema con reglas que la información obtenida en las tablas debe cumplir. Almacenan datos estructurados.
+  
+  Bases de datos noSQL:
+  
+  Con la llegada de internet, las bases de datos relacionales suponen una alternativa a las tradicionales. Un punto negativo que tienen es que no siguen
+  los principios ACID comentados antes. En principio no usan lenguaje de consultas SQL, pero el término "noSQL" se suele referir más a "no solo SQL" para
+  indicar que también pueden hacer consultas. En este tipo de bases de datos se encuentran las documentales, las orientadas a grafos o las de clave-valor.
+  Mejoran la felixibiblidad y escalabilidad con respecto a las SQL.
+  
+  Características de MongoDB:
+  
+  Está orientada a documentos json. No sigue ningún esquema. Disponible de consola construida sobre JavaScript, lo que permite ejecutar muchas de sus funciones.
+  Es utilizada ampliamente en aplicaciones para internet y Bid Data.
+  
+  JSON:
+  
+  Significa JavaScript Object Notation. Tiene un formato sencillo para el intercambio de objetos y se trata, a su vez, de un subconjunto de la notación
+  literal de objetos de JavaScript. Surgió como una alternativa a XML como lenguaje de intercambio de datos y es mucho más sencillo de leer y escribir.
+  Se trata de un formato muy extendido en bases de datos noSQL, como MongoDB. Está soportado por multitud de lenguajes de programación. Un objeto json
+  está formado por uno o varios pares clave:valor. Soporta diferentes tipos de datos, como cadenas, valores nulos y booleanos. Los objetos json siempre
+  empiezan con una llave y terminar con otra llave.
+  
+  SQL vs noSQL:
+  
+  Ventajas de SQL: Madurez, ACID, estándares bien definidos (SQL), sencillez en la escritura.
+  
+  Desventajas de SQL: Mantenimiento difícil y costoso, poca flexibilidad frente a cambios en el diseño inicial, elección del proveedor más adecuado, complejidad.
+  
+  Ventajas de noSQL: Versatilidad, crecimiento horizontal, baja necesidad de recursos, optimización.
+  
+  Desventajas de noSQL: Documentación del software, no hay estándar consensuado, herramientas GUI.
   
