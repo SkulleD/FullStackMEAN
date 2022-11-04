@@ -1097,3 +1097,19 @@
   
   Desventajas de noSQL: Documentación del software, no hay estándar consensuado, herramientas GUI.
   
+  <h2>04/11/2022</h2>
+  
+  Comandos útiles en MongoDB:
+  
+  Ctrl+L -> Limpiar consola.
+  show dbs -> Mostrar mis bases de datos.
+  use <nombre BD> -> Cambiarse de base de datos.
+  show collections/show tables -> Listar colecciones de una base de datos.
+  db.getName() o db() -> Mostrar el nombre de la base de datos.
+  db.stats() -> Listar metadatos de una BD.
+  db.help() -> Ayuda sobre comandos.
+  db.hostInfo() -> Información sobre el servidor.
+  Date() -> Mostrar fecha y hora del sistema.
+  db.<collectionName>.find().pretty() -> Dar formato JSON.
+  
+  
