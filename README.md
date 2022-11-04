@@ -1052,6 +1052,10 @@
   
   Para compilarla usamos el comando "ng build" (también se puede añadir --prod pero no hace falta).
   
+  Hecho el examen final del curso de Angular - Ampliando Conceptos. Certificado conseguido.
+  
+  ![Certificado Curso 8](https://user-images.githubusercontent.com/51362780/200062336-62e2772c-7f84-44ed-a9d9-55828c178120.png)
+
   <h2>03/11/2022</h2>
   
   - <h4>9 (FINAL): Curso de MongoDB, por Pedro Martín</h4>
