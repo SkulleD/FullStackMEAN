@@ -1112,4 +1112,33 @@
   Date() -> Mostrar fecha y hora del sistema.
   db.<collectionName>.find().pretty() -> Dar formato JSON.
   
+  Jerarquía del almacenamiento de información:
   
+  SQL -> Tablas -> Filas/registros -> Columnas/Campos.
+  noSQL -> Colecciones -> Documentos JSON -> Propiedades.
+  
+  Tipos de datos:
+  
+  Simples: números, cadenas de texto, fecha, hora, booleanos.
+  
+  Complejos: arrays, objetos, binary data, objectId, expresiones regulares.
+  
+  <b>Práctica: Creando una base de datos</b>
+  
+  ![Curso9 practica1 enunciado](https://user-images.githubusercontent.com/51362780/200065237-324bbec0-26d4-41f1-af5c-c95bbe908c1d.png)
+
+  brew services start mongodb-community@5.0
+  
+  Nueva pestaña
+
+  use concesionario
+  
+  db.coches.insertOne({})
+  
+  db.coches.insertOne({matricula:1,marca:'toyota',modelo:2021,version:['sport','confort'],kilometros:'200km',fecha_de_matriculacion:Date()})
+  
+  show dbs
+  
+  db.dropDatabase()
+  
+  show dbs
