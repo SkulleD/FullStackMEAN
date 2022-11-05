@@ -1142,3 +1142,51 @@
   db.dropDatabase()
   
   show dbs
+  
+  <h2>05/11/2022</h2>
+  
+  Operaciones con datos 1 (CRUD):
+  
+  CRUD significa Create, Read, Update y Delete.
+  
+  Insertar:
+  
+  Un solo documento: db.collectionName.insertOne(<json>);
+  
+  Varios documentos: db.collectionName.insertMany(<json>);
+  
+  Actualizar:
+  
+  Un solo documento: db.collectionName.updateOne(<condicion>, <update>);
+  
+  Varios documentos: db.collectionName.updateMany(<condicion>, <update>);
+  
+  Reemplazar documento: db.collectionName.replaceOne(<condicion>, <update>);
+  
+  Eliminar:
+  
+  Un solo documento: db.collectionName.deleteOne(<json>);
+  
+  Varios documentos: db.collectionName.deleteMany(<json>);
+  
+  Bases de datos Schemaless:
+  
+  Se suele decir que las BD noSQL son "schemaless" o que no tienen esquema. Un esquema se puede definir como un conjunto de reglas que la información contenida
+  en la tabla debe cumplir, por lo que muestran datos que deben ser estructurados. El esquema es un conjunto de restricciones al almacenar la información. 
+  Tener esquemas tiene ventajas y desventajas: mayor control de lo que se almacena en una tabla significa menos flexibilidad.
+  
+  A veces, los datos a almacenar no siguen una estructura, son los datos desestructurados (schemaless). Con ellos se hace una mejor gestión de la memoria
+  necesaria para almacenar la información. Es uno de los motivos por los que surge noSQL.
+  
+  Colecciones - documentos JSON:
+  
+  En una colección se pueden almacenar documentos json con contenido muy distinto entre sí. En una tabla de datos SQL, dos filas que se almacenen deberán tener
+  los mismos campos, llamándose igual y respetando las reglas del esquema.
+  
+  ¿Puedo guardar datos estructurados en una base de datos SQL?
+  
+  Sí. Los datos no tendrán restricciones a la hora de guardarse en las colecciones siempre que tengan formato JSON.
+  
+  
+  
+  
