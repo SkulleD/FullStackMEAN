@@ -1187,6 +1187,20 @@
   
   Sí. Los datos no tendrán restricciones a la hora de guardarse en las colecciones siempre que tengan formato JSON.
   
+  Documentos "embedidos":
   
+  Hace referencia a guardar una cosa dentro de otra cosa. En este caso, guardar un documentos JSON dentro de otro como valor de una de sus propiedades.
+  
+  Documentos referenciados:
+  
+  A diferencia de los embedidos, en un documentos JSON se guarda solo el valor de una o varias propiedades, en lugar del documento completo. Normalmente se
+  guarda el valor de una propiedad que identifica inequívocamente al documento referenciado.
+  
+  ¿Qué diseño elegir?
+  
+  Para embebidos dependerá de cómo se quiera almacenar la información y la naturaleza y el contexto de las aplicaciones que vayan a consumir la información.
+  
+  Para referenciados de las preferencias de roles como arquitectos de software y de bases de datos teniendo en cuenta factores futuros como la escalabilidad
+  en cuanto a volumen de datos, usuarios/aplicaciones y sus formas de acceder a la información, etc.
   
   
