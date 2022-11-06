@@ -1203,4 +1203,27 @@
   Para referenciados de las preferencias de roles como arquitectos de software y de bases de datos teniendo en cuenta factores futuros como la escalabilidad
   en cuanto a volumen de datos, usuarios/aplicaciones y sus formas de acceder a la información, etc.
   
+  <h2>06/11/2022</h2>
+  
+  Operaciones con datos 2 (CRUD):
+  
+  Consultar:
+  
+  db.collection.find() -> Devuelve todos los documentos de la colección.
+  
+  db.collection.find(<filter>) -> Devuelve todos los documentos de la colección que cumplan filtros especificados.
+  
+  ¿Qué son los índices?
+  
+  Son estructuras de datos especiales gestionadas por MongoDB. Almacenan una pequea porción de datos de la colección. El índice almacena el valor de un campo
+  específico o de un conjunto de campos, ordenados por el valor de dichos campos.
+  
+  Permiten optimizar la ejecución de las consultas que afecta a la velocidad con la que estas se ejecutan y devuelven el resultado. Sin los índices, MongoDB debe
+  hacer un análisis de la colección, con el fin de encontrar los documentos que cumplan con los criterios de consulta. En definitiva, mejoran el rendimiento de la
+  base de datos en relación a la ejecución de consultas.
+  
+  Tipos de índices: Simples/de un solo campo, compuestos/de varios campos, únicos, sparse, otros (hashed, geospatial, text. etc...)
+  
+  
+  
   
