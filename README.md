@@ -1224,6 +1224,12 @@
   
   Tipos de índices: Simples/de un solo campo, compuestos/de varios campos, únicos, sparse, otros (hashed, geospatial, text. etc...)
   
+  <h2>07/11/2022</h2>
   
+  Hecho el examen final del curso de Buenas MongoDB. Certificado conseguido.
   
+  ![Certificado Curso 9](https://user-images.githubusercontent.com/51362780/200429586-2d5f81b9-51e0-4e80-b0d2-ae449e484104.png)
   
+  ¡¡Carrera de programador fullstack MEAN terminada!!
+  
+  ![Certificado CARRERA FULLSTACK MEAN](https://user-images.githubusercontent.com/51362780/200429692-3175d84b-8b5d-479c-b16b-2af65d3e7649.png)
